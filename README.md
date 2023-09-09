@@ -1,6 +1,6 @@
 # Solution to GovTech challenge (Gigahack hackathon)
 POC of a chat bot using own data (with fine tuning + retrieval augmented generation).   
-The data is the full collection of documents from the https://servicii.gov.md portal.
+The data is the full collection of documents from the https://servicii.gov.md portal.  
 This is a solution for the GovTech Challenge hackathon: https://gigahack.md/.
 
 ## The challenge
