@@ -7,8 +7,8 @@ import config
 
 openai.api_key = os.getenv("OPENAI_API_KEY", config.OPENAI_API_KEY)
 
-file_name = 'qa_manual_20230909_0230.jsonl'
-suffix = 'manual_09_0230'
+file_name = 'qa_manual_20230909_1650.jsonl'
+suffix = 'manual_09_1650'
 
 file_training_response = openai.File.create(
     file=open(f'{config.DIR_DATA}/qa/{file_name}', 'rb'),
@@ -33,8 +33,7 @@ response = openai.FineTuningJob.create(
 )
 job_id = response["id"]
 print("Training job ID:", job_id)
-# job_id = 'file-JMOeHhChjAcBKVqiSq26oPWm'
-# old model
+# job_id = 'ftjob-q8Cn5SMsW8jzVWyarctXdv81'
 
 response = openai.FineTuningJob.retrieve(job_id)
 print(f"status for training job {job_id} : {response['status']}")

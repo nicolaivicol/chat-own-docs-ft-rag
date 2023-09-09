@@ -22,7 +22,7 @@ log = logging.getLogger(os.path.basename(__file__))
 if __name__ == '__main__':
     log.info(f'Running {os.path.basename(__file__)}')
     qa_files = [code.replace('.json', '') for code in os.listdir(f'{config.DIR_DATA}/qa/manual')]
-    with open(f'{config.DIR_DATA}/qa/qa_manual_20230909_0230.jsonl', 'w') as f:
+    with open(f'{config.DIR_DATA}/qa/qa_manual_20230909_1650.jsonl', 'w') as f:
         for code in tqdm(qa_files):
             print(code)
             qa = json.load(open(f'{config.DIR_DATA}/qa/manual/{code}.json'))
