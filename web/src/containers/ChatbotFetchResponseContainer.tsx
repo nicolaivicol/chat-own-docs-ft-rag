@@ -4,7 +4,6 @@ import { ASK_QUESTION_ENDPOINT } from "../config.ts";
 import {
   ChatbotOptionTypeEnum,
   ChatbotQuestionResponse,
-  ChatbotStep,
 } from "../types/chatbot.types.ts";
 import { QUESTION_RESPONSE } from "../__mocks__/root-api.mocks.ts";
 import ChatbotOptions from "../components/ChatbotOptions/ChatbotOptions.tsx";
@@ -13,9 +12,7 @@ import Markdown from "../components/Markdown";
 interface ChatbotFetchResponseContainerProps {
   previousStep: { value: string };
   triggerNextStep: (data?: unknown) => void;
-  setSteps: (
-    state: React.Dispatch<React.SetStateAction<ChatbotStep[]>>,
-  ) => void;
+  selectedOptionRef: React.MutableRefObject<string | null>;
 }
 
 const ChatbotFetchResponseContainer = (
@@ -32,20 +29,24 @@ const ChatbotFetchResponseContainer = (
     });
 
   useEffect(() => {
-    console.log({ props, value: previousStep.value });
     handleFetchAnswer();
+
+    triggerNextStep({
+      trigger: "user-question",
+    });
   }, []);
 
   async function handleFetchAnswer() {
-    if (!previousStep?.value) {
-      return;
-    }
+    const value = previousStep.value || props.selectedOptionRef.current;
 
-    const value = previousStep.value;
     await triggerRequest({ value });
+
+    props.selectedOptionRef.current = null;
   }
 
   async function handleSelectOptions(body: string[] | string) {
+    props.selectedOptionRef.current = body;
+
     triggerNextStep({
       trigger: "fetch-response",
       value: body,

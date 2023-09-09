@@ -25,6 +25,10 @@ function useFetchPost<T = unknown>(
       setError(null);
 
       try {
+        if (body == null) {
+          throw new Error("Ceva nu a mers bine.");
+        }
+
         if (props.mockResponse != null) {
           const responseData = await props.mockResponse(body);
           setData(responseData as T);

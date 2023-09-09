@@ -1,9 +1,10 @@
 import { ChatbotStep } from "../types/chatbot.types.ts";
 import ChatbotFetchResponseContainer from "../containers/ChatbotFetchResponseContainer.tsx";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 const useChatbotSteps = () => {
   const [steps, setSteps] = useState<ChatbotStep[]>([]);
+  const selectedOptionRef = useRef<string | string[] | null>(null);
 
   useEffect(() => {
     setSteps([
@@ -19,7 +20,11 @@ const useChatbotSteps = () => {
       },
       {
         id: "fetch-response",
-        component: <ChatbotFetchResponseContainer />,
+        component: (
+          <ChatbotFetchResponseContainer
+            selectedOptionRef={selectedOptionRef}
+          />
+        ),
         asMessage: true,
         waitAction: true,
       },
