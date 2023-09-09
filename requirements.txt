@@ -1,0 +1,16 @@
+pip
+openai
+numpy
+pandas
+scipy
+scikit-learn==1.2
+boto3
+tqdm
+more-itertools
+plotly
+tabulate
+notebook
+jupyter
+ipynb-py-convert
+optuna
+streamlit
