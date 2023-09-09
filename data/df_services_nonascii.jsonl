@@ -1,0 +1,768 @@
+{"code":"001000661","title":"Acordarea ajutorului de șomaj"}
+{"code":"017000013","title":"Acordarea dreptului de aflare"}
+{"code":"017000071","title":"Acordarea dreptului de ședere provizorie\/permanentă"}
+{"code":"017000152","title":"Acordarea tolerării rămânerii pe teritoriul Republicii Moldova"}
+{"code":"001000454","title":"Ajutor de deces acordat beneficiarilor instituţiilor de forţă"}
+{"code":"001000441","title":"Ajutor de deces în baza prevederilor acordurilor internaționale"}
+{"code":"001000344","title":"Alocație lunară de stat pentru protecția socială suplimentară a unor categorii de populație"}
+{"code":"001000030","title":"Alocație lunară de stat privind protecţia socială suplimentară a unor beneficiari de pensii, stabilite în sistemul public de asigurări sociale"}
+{"code":"001000027","title":"Alocaţie lunară nominală de stat pentru persoanele cu merite deosebite faţă de stat"}
+{"code":"001000360","title":"Alocaţie lunară pentru îngrijire, însoţire şi supraveghere persoanelor cu dizabilități severe imobilizate la pat, care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl"}
+{"code":"001000331","title":"Alocaţie lunară pentru merite deosebite faţă de stat "}
+{"code":"001000328","title":"Alocaţie socială de stat pentru copii în cazul pierderii întreţinătorului"}
+{"code":"001000357","title":"Alocaţie socială de stat pentru îngrijire, însoţire şi supraveghere"}
+{"code":"001000315","title":"Alocaţie socială de stat pentru persoanele cu dizabilităţi, persoanelor cu dizabilităţi din copilărie şi copii cu dizabilităţi în vârstă de până la 18 ani"}
+{"code":"001000302","title":"Alocaţie socială de stat pentru persoanele vârstnice"}
+{"code":"017000110","title":"Autorizarea emigrării străinilor cu domiciliul permanent în Republica Moldova"}
+{"code":"017000068","title":"Aviz pentru reîntregirea familiei"}
+{"code":"018000030","title":"Bilet de tratament balneosanatorial pentru veterani"}
+{"code":"018000056","title":"Bilet de tratament balneosanatorial persoanelor asigurate"}
+{"code":"018000043","title":"Bilet de tratament în instituţiile balneosanatoriale persoanelor care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl şi unor categorii de persoane"}
+{"code":"001000629","title":"Buletin de identitate pentru beneficiarii de protecție internațională și apatrizi."}
+{"code":"017000097","title":"Certificat de confirmare a statutului de apatrid al solicitantului"}
+{"code":"018000069","title":"Certificat privind beneficierea\/nebeneficierea de bilete de tratament balneosanatorial prin intermediul casei teritoriale de asigurări sociale"}
+{"code":"018000027","title":"Compensaţie anuală bănească în mărimea costului mediu al biletului"}
+{"code":"018000014","title":"Compensaţie bănească în locul biletelor de tratament sanatorial gratuit persoanelor cu dizabilități de pe urma războiului"}
+{"code":"001000425","title":"Compensaţie bănească lunară în schimbul asigurării cu produse alimentare şi suplimente alimentare "}
+{"code":"001000687","title":"Corectarea plăților administrate de CNAS achitate incorect sau în plus la bugetul asigurărilor sociale de stat "}
+{"code":"017000149","title":"Document de identitate temporar de solicitant de azil"}
+{"code":"001000593","title":"Documentarea cu acte de identitate pentru străini"}
+{"code":"001000645","title":"Documente de călătorie pentru beneficiarii de protecție internațională și apatrizilor"}
+{"code":"001000548","title":"Eliberarea documentelor ce confirmă dreptul de proprietate asupra imobilului ca rezultat al desfacerii benevole a tranzacţiei sau a declarării ei nule pe baza deciziei judecătoreşti"}
+{"code":"001000674","title":"Eşalonarea stingerii datoriilor majorărilor de întărziere (penalităţilor) faţă de bugetul asigurărilor sociale de stat"}
+{"code":"001000551","title":"Extras și\/sau fotocopii din registrul actelor notariale"}
+{"code":"001000409","title":"Indemnizația în cazul decesului unuia dintre soți"}
+{"code":"001000564","title":"Indemnizația viageră antrenorilor sportivilor de performanță. "}
+{"code":"001000577","title":"Indemnizația viageră sportivilor de performanță. "}
+{"code":"001000373","title":"Indemnizaţie pentru incapacitate temporară de muncă "}
+{"code":"001000386","title":"Indemnizație pentru incapacitate temporară de muncă și de maternitate acordată în baza prevederilor acordurilor internaționale în domeniul securității sociale la care Republica Moldova este parte"}
+{"code":"001000399","title":"Indemnizație unică de deces beneficiarilor instituţiilor de forţă"}
+{"code":"001000412","title":"Indemnizație urmașilor personalului medical decedat ca urmare a desfășurării activității medicale în lupta cu COVID-19"}
+{"code":"017000039","title":"Invitație pentru cetățenii străini"}
+{"code":"017000136","title":"Înregistrarea și\\sau radierea din evidență la domiciliu sau la reședința temporară"}
+{"code":"001000658","title":"Luarea si scoaterea din evidenta a străinilor care intră în Republica Moldova prin Transnistria"}
+{"code":"001000072","title":"Pensie anticipată pentru carieră lungă"}
+{"code":"001000108","title":"Pensie de dizabilitate"}
+{"code":"001000250","title":"Pensie de dizabilitate acordată în baza prevederilor acordurilor internaționale"}
+{"code":"001000221","title":"Pensie de dizabilitate cetăţenilor care au participat la lichidarea urmărilor avariei de la C.A.E Cernobîl"}
+{"code":"001000195","title":"Pensie de dizabilitate militarilor în termen"}
+{"code":"001000182","title":"Pensie de dizabilitate militarilor şi persoanelor din corpul de comandă și trupele organelor afacerilor interne"}
+{"code":"001000111","title":"Pensie de urmaș"}
+{"code":"001000263","title":"Pensie de urmaş în baza prevederilor acordurilor internaţionale"}
+{"code":"001000234","title":"Pensie în cazul pierderii întreţinătorului membrilor familiilor persoanelor care au decedat în urma schilodirii sau îmbolnăvirii provocate de avaria de la C.A.E Cernobîl"}
+{"code":"001000205","title":"Pensie în cazul pierderii întreţinătorului militar în termen"}
+{"code":"001000179","title":"Pensie în cazul pierderii întreţinătorului militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne"}
+{"code":"001000124","title":"Pensie pentru funcţionarii publici"}
+{"code":"001000137","title":"Pensie pentru judecători"}
+{"code":"001000218","title":"Pensie pentru limita de vârstă cetăţenilor care au participat la lichidarea urmărilor avariei de la C.A.E Cernobîl"}
+{"code":"001000098","title":"Pensie pentru limită de vârstă"}
+{"code":"001000247","title":"Pensie pentru limită de vârstă acordată în baza prevederilor acordurilor internaționale"}
+{"code":"001000140","title":"Pensie pentru unele categorii de angajaţi din aviaţia civilă"}
+{"code":"001000153","title":"Pensie pentru unele categorii de angajaţi din domeniul culturii"}
+{"code":"001000276","title":"Pensie și indemnizație de dizabilitate în urma accidentului de muncă sau a unei boli profesionale acordată în baza prevederilor acordurilor internaționale"}
+{"code":"001000166","title":"Pensie viageră pentru vechime în muncă militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne"}
+{"code":"001000603","title":"Permise de ședere"}
+{"code":"001000438","title":"Plata pentru concediu suplimentar de 14 zile calendaristice cetățenilor care au suferit de pe urma catastrofei de la Cernobîl \n"}
+{"code":"017000107","title":"Prelungirea vizelor pentru străini"}
+{"code":"017000123","title":"Recunoașterea statutului de apatrid"}
+{"code":"001000292","title":"Reexaminarea pensiilor de dizabilitate pentru stagiul de cotizare realizat după stabilirea pensiei"}
+{"code":"001000289","title":"Reexaminarea pensiilor pentru limită de vârstă  pentru stagiul de cotizare realizat după stabilirea pensiei"}
+{"code":"001000085","title":"Restituirea sumelor din bugetul asigurărilor sociale de stat plătitorilor de contribuţii"}
+{"code":"001000470","title":"Suport financiar de stat"}
+{"code":"002000154","title":"Ajutor de deces persoanelor asigurate"}
+{"code":"002000167","title":"Ajutor de deces persoanelor neasigurate"}
+{"code":"002000141","title":"Ajutor material unic anual copiilor care au pierdut întreținătorul (de pe urma catastrofei de la C.A.E Cernobîl)"}
+{"code":"002000248","title":"Certificat ce confirmă decesul militarilor în acţiuni de luptă şi la datorie pe timp de pace"}
+{"code":"004000017","title":"Certificat\/duplicat al certificatului de adopție"}
+{"code":"002000277","title":"Certificat\/duplicat al certificatului de căsătorie"}
+{"code":"002000280","title":"Certificat\/duplicat al certificatului de deces"}
+{"code":"004000020","title":"Certificat\/duplicat al certificatului de paternitate"}
+{"code":"002000138","title":"Compensaţia unică familiilor ce şi-au pierdut întreţinătorul în urma catastrofei de la C.A.E Cernobîl\n"}
+{"code":"002000293","title":"Extras de pe actul de căsătorie"}
+{"code":"002000303","title":"Extras de pe actul de deces"}
+{"code":"002000329","title":"Extras multilingv de pe actul de deces"}
+{"code":"002000057","title":"Indemnizaţia unică la naşterea copilului"}
+{"code":"002000125","title":"Indemnizație de deces ca urmare a unui accident de muncă sau a unei boli profesionale"}
+{"code":"002000099","title":"Indemnizație de maternitate femeilor asigurate și soțiilor aflate la întreținerea soților asigurați"}
+{"code":"002000112","title":"Indemnizaţie lunară de suport pentru creşterea până la vârsta de 3 ani a copiilor gemeni sau a mai multor copii născuţi dintr-o singură sarcină\n"}
+{"code":"002000073","title":"Indemnizaţie lunară pentru creşterea copilului, conform opțiunilor (persoanelor asigurate)\n"}
+{"code":"002000251","title":"Indemnizaţie lunară pentru îngrijirea copilului până la împlinirea vârstei de 2 ani"}
+{"code":"002000109","title":"Indemnizaţie lunară pentru îngrijirea copilului până la vârsta de 3 ani (pentru persoanele asigurate, acordată în baza prevederilor acordurilor internaționale)"}
+{"code":"002000086","title":"Indemnizaţie paternală"}
+{"code":"001000386","title":"Indemnizație pentru incapacitate temporară de muncă și de maternitate acordată în baza prevederilor acordurilor internaționale în domeniul securității sociale la care Republica Moldova este parte"}
+{"code":"002000219","title":"Înregistrare căsătorie"}
+{"code":"002000222","title":"Înregistrare deces"}
+{"code":"002000235","title":"Înregistrare naștere"}
+{"code":"002000170","title":"Înregistrarea căsătoriei"}
+{"code":"002000183","title":"Înregistrarea decesului"}
+{"code":"002000196","title":"Înregistrarea divorțului"}
+{"code":"002000332","title":"Înregistrarea faptului recunoașterii paternității"}
+{"code":"002000206","title":"Înregistrarea nașterii"}
+{"code":"003000524","title":" Licenţă pentru colectarea, păstrarea, prelucrarea, comercializarea; exportul resturilor şi deşeurilor de metale feroase şi neferoase, de baterii; acumulatori uzaţi"}
+{"code":"003001619","title":"Acordarea Autorizației de Agent Economic Autorizat"}
+{"code":"003001114","title":"Acordarea statutului de exportator aprobat"}
+{"code":"003001648","title":"Acordarea statutului de exportator înregistrat"}
+{"code":"003001127","title":"Acordarea statutului de titular al procedurii simplificate de vămuire"}
+{"code":"003001046","title":"Act de constatare a gradului de pregătire tehnică pentru funcționare sezonieră\/permanentă a sistemului de gaze"}
+{"code":"003000760","title":"Agrearea vehiculelor rutiere pentru transportarea mărfurilor  sub sigiliul vamal"}
+{"code":"003000184","title":"Aprobarea programelor de pregătire pentru organizații"}
+{"code":"003001392","title":"Aprobarea programelor\/procedurilor de securitate aeronautică"}
+{"code":"003000456","title":"Atestat de colecționar"}
+{"code":"003001460","title":"Atestat de mediator"}
+{"code":"003000074","title":"Atribuirea statutului de instituție-gazdă a activității de voluntariat persoanelor juridice de drept public sau privat fără scop lucrativ"}
+{"code":"003000977","title":"Autentificarea datelor din situațiile financiare"}
+{"code":"003001622","title":"Autorizare generală de furnizare a serviciilor poștale"}
+{"code":"003001185","title":"Autorizare sanitar-veterinară de funcţionare"}
+{"code":"003000951","title":"Autorizare sanitar-veterinară pentru mijloacele de transport"}
+{"code":"003000757","title":"Autorizarea accesului la transportarea internațională a mărfurilor sub acoperirea carnetelor T.I.R."}
+{"code":"003001606","title":"Autorizarea de funcționare a tirului de trageri"}
+{"code":"018000315","title":"Autorizarea produselor medicamentoase de uz uman"}
+{"code":"003000786","title":"Autorizarea radiologică"}
+{"code":"003000841","title":"Autorizarea radiologică parțială"}
+{"code":"003000207","title":"Autorizarea transportului bunurilor periculoase la bordul aeronavei"}
+{"code":"003000650","title":"Autorizarea, redactarea textelor, sloganurilor de publicitate exterioară"}
+{"code":"003000210","title":"Autorizația de exploatare a emițătoarelor radio"}
+{"code":"003001499","title":"Autorizația pentru activitatea de administrator autorizat"}
+{"code":"003000197","title":"Autorizaţia pentru Operațiuni Comerciale Specializate (Lucru Aerian)"}
+{"code":"018000179","title":"Autorizație de activitate pentru utilizarea obiectivelor și încăperilor destinate activităților legate de circulația substanțelor stupefiante, psihotrope și a precursorilor"}
+{"code":"003001596","title":"Autorizație de antrepozit vamal (administrarea și gestionarea antrepozitului) "}
+{"code":"003000702","title":"Autorizaţie de import în regim preferenţial al unor tipuri de zahăr"}
+{"code":"018000195","title":"Autorizaţie de import\/export al substanţelor stupefiante, psihotrope şi al precursorilor"}
+{"code":"003000689","title":"Autorizație individuală de export al mărfurilor strategice (cu dublă destinație)"}
+{"code":"003000663","title":"Autorizație individuală de import al mărfurilor strategice (cu dublă destinație)"}
+{"code":"003000676","title":"Autorizație individuală de reexport al mărfurilor strategice (cu dublă destinație)"}
+{"code":"003000692","title":"Autorizație individuală de tranzit al mărfurilor strategice (cu dublă destinație)"}
+{"code":"003000388","title":"Autorizație pentru activitatea particulară de pază."}
+{"code":"018000205","title":"Autorizație pentru efectuarea testărilor clinice pentru medicamente"}
+{"code":"003001473","title":"Autorizaţie pentru exercitarea activității de interpret şi\/sau traducător"}
+{"code":"018000218","title":"Autorizaţie pentru fabricarea medicamentelor"}
+{"code":"018000182","title":"Autorizație pentru importul medicamentelor înregistrate și\/sau neînregistrate, cu scopul înregistrării"}
+{"code":"003000223","title":"Autorizaţie pentru zboruri neregulate"}
+{"code":"003000236","title":"Autorizație pentru zboruri regulate:\n1.pentru operatori aerieni naționali;\n2. pentru operatorii aerieni din străinătate (cu excepția celor din statele UE)."}
+{"code":"003000090","title":"Aviz de atestare a impedimentului justificator de neexecutare a obligației contractuale "}
+{"code":"003000249","title":"Avizarea construcţiei şi reconstrucţiei aerodromurilor\/aeroporturilor\/heliporturilor şi a obiectelor speciale"}
+{"code":"003001716","title":"Avizarea construcţiilor, instalaţiilor şi echipamentelor în zonele supuse servituţii aeronautice"}
+{"code":"003000472","title":"Avizarea proiectelor sistemelor de alarmare"}
+{"code":"018000221","title":"Avizarea şi înregistrarea preţurilor de producător la medicamente"}
+{"code":"003001703","title":"Buletin de verificare metrologică"}
+{"code":"003000825","title":"Calificarea auditorilor energetici"}
+{"code":"003000838","title":"Calificarea instalatorilor de cazane, furnale sau sobe pe bază de biomasă, de sisteme fotovoltaice și termice solare, de sisteme geotermale de mică adâncime și de pompe de căldură, categoria B1"}
+{"code":"003000100","title":"Carnet ATA pentru admitere temporara a marfurilor"}
+{"code":"003000948","title":"Certificare sanitar-veterinara"}
+{"code":"003001033","title":"Certificarea evaluatorilor bunurilor imobile"}
+{"code":"003001198","title":"Certificarea fitosanitara pentru export sau reexport"}
+{"code":"003000964","title":"Certificarea inginerilor cadastrali"}
+{"code":"003001020","title":"Certificarea specialiștilor în domeniul geodeziei, cartografiei, prospecțiunilor topografice și geoinformaticii"}
+{"code":"003000252","title":"Certificat acustic (de zgomot)"}
+{"code":"003000265","title":"Certificat al întreprinderii de deservire la sol\n"}
+{"code":"003000171","title":"Certificat al întreprinderii de întreţinere tehnică"}
+{"code":"003000278","title":"Certificat al personalului aeronautic"}
+{"code":"003000485","title":"Certificat al utilizatorului final"}
+{"code":"003001693","title":"Certificat de aprobare de model pentru mijloacele de măsurare (inclusiv pentru loturi mici și exemplare unice)"}
+{"code":"018000234","title":"Certificat de bună practică de distribuție a medicamentelor (GDP)"}
+{"code":"018000247","title":"Certificat de bună practică de fabricație a medicamentelor de uz uman (GMP)"}
+{"code":"003000281","title":"Certificat de calificare a echipamentelor de pregătire sintetică pentru zbor (FSTD)"}
+{"code":"018000250","title":"Certificat de calitate al medicamentului"}
+{"code":"003001208","title":"Certificat de calitate la exportul materialului de înmulțire și a celui săditor"}
+{"code":"003000980","title":"Certificat de confirmare a statutului întreprinderilor mici și mijlocii"}
+{"code":"003000870","title":"Certificat de conformitate a calității fructelor și legumelor proaspete"}
+{"code":"003000155","title":"Certificat de desemnare a persoanelor juridice pentru efectuarea verificărilor metrologice ale mijloacelor de măsurare utilizate în domeniile de interes public sau desemnarea persoanelor juridice pentru efectuarea măsurilor în domeniile de interes public."}
+{"code":"003001428","title":"Certificat de deținător de armă care face obiectul declarării pentru persoana juridică"}
+{"code":"003000294","title":"Certificat de furnizor de servicii de navigaţie aeriană"}
+{"code":"003001211","title":"Certificat de inofensivitate"}
+{"code":"003000304","title":"Certificat de înmatriculare a aeronavei"}
+{"code":"003000919","title":"Certificat de înregistrare a medicamentului de uz veterinar"}
+{"code":"003001350","title":"Certificat de înregistrare a utilajului tehnologic în Registrul de Stat al utilajului tehnologic principal folosit la fabricarea distilatelor de origine agricolă sau la producerea băuturilor alcoolice tari"}
+{"code":"003000867","title":"Certificat de înregistrare oficială în domeniul siguranței alimentelor"}
+{"code":"003000317","title":"Certificat de navigabilitate pentru aeronavă"}
+{"code":"003000320","title":"Certificat de operator aerian"}
+{"code":"003000168","title":"Certificat de operator de aerodrom\/heliport"}
+{"code":"003000333","title":"Certificat de operator de aerodrom\/heliport (eliberat conform Regulamentului privind cerinţele administrative referitoare la anumite categorii de aerodromuri, aprobat prin Hotărârea de Guvern nr. 737\/2020)"}
+{"code":"003000113","title":"Certificat de origine nepreferențiala a marfurilor"}
+{"code":"003000896","title":"Certificat de rasă al mătcii de albine"}
+{"code":"003000773","title":"Certificat de securitate în domeniul nuclear și radiologic"}
+{"code":"003001321","title":"Certificat de valoare biologica"}
+{"code":"003000508","title":"Certificat de verificare a livrării"}
+{"code":"003000498","title":"Certificat internațional de import"}
+{"code":"003000346","title":"Certificat pentru centrele de medicină aeronautică"}
+{"code":"003000359","title":"Certificat pentru centrele de pregătire a personalului aeronautic"}
+{"code":"003000087","title":"Certificat privind înregistrarea în calitate de plătitor la bugetul asigurărilor sociale de stat pentru unele categorii de persoane "}
+{"code":"003001334","title":"Certificatul de înregistrare a agenților economici pentru producerea și\/sau prelucrarea și\/sau comercializarea semințelor"}
+{"code":"003000511","title":"Clasificarea structurilor de primire turistică cu funcțiuni de cazare și de servire a mesei"}
+{"code":"018000328","title":"Controlul de stat al calității medicamentului"}
+{"code":"003001376","title":"Difuzarea, la solicitare, a buletinelor de avertizare (pentru un obiect nociv)"}
+{"code":"003001224","title":"Duplicatul certificatului fitosanitar pentru export sau reexport"}
+{"code":"003001486","title":"Duplicatul licenței, atestatului, autorizației persoanei autorizate"}
+{"code":"003001363","title":"Efectuarea verificărilor din domeniul protecția plantelor"}
+{"code":"003000744","title":"Elaborarea, verificarea, redactarea și aprobarea denumirilor persoanelor juridice"}
+{"code":"003001680","title":"Eliberarea avizului privind constituirea structurilor sportului"}
+{"code":"003001143","title":"Eliberarea certificatelor de origine preferențială"}
+{"code":"003001156","title":"Eliberarea certificatului privind lipsa sau existența datoriilor la bugetul de stat, compartimentul plăți vamale"}
+{"code":"003001169","title":"Emiterea Deciziei tarifare prealabile privind clasificarea mărfurilor"}
+{"code":"003000799","title":"Examinarea notificărilor și înregistrarea agenților economici care prestează activitate de reparare, montare, darea în folosință a mijloacelor de măsurare legale, precum și efectuarea preambalării produselor, producerea și\/sau importul sticlelor utilizate ca recipiente de măsură"}
+{"code":"003001237","title":"Expertiza stării fitosanitare a loturilor de producere"}
+{"code":"003001509","title":"Extras din registrele de stat ce conțin date despre profesiile juridice coordonate sau supravegheate de minister"}
+{"code":"003001389","title":"Extras din Registrul de stat al persoanelor juridice și al întreprinzătorilor individuali"}
+{"code":"003000993","title":"Informație vizând genul principal de activitate, conform Clasificatorului Activităților din Economia Moldovei (CAEM-2), declarat de către entități în rapoartele statistice\/financiare"}
+{"code":"003001635","title":"Înregistrarea de stat a gospodăriilor ţărăneşti (de fermier)"}
+{"code":"003000634","title":"Înregistrarea de stat a întreprinzătorilor individuali"}
+{"code":"003000922","title":"Înregistrarea de stat a persoanelor juridice, a filialelor şi a reprezentanţelor acestora"}
+{"code":"003001240","title":"Înregistrarea depozitului pentru păstrarea produselor de uz fitosanitar şi a fertilizanţilor"}
+{"code":"018000263","title":"Înregistrarea dispozitivelor medicale în Registrul oficial"}
+{"code":"003000142","title":"Înregistrarea în calitate de rezident al Portului Internaţional Liber Giurgiuleşti"}
+{"code":"003001253","title":"Înregistrarea mișcării animalelor"}
+{"code":"003001266","title":"Înregistrarea operatorului din domeniul fitosanitar"}
+{"code":"003001525","title":"Legitimație de expert judiciar, interpret şi\/sau traducător"}
+{"code":"003000391","title":"Licența pentru activitatea cu metale prețioase și pietre prețioase; funcționarea caselor de amanet"}
+{"code":"003000540","title":"Licența pentru activitatea de broker vamal"}
+{"code":"003000537","title":"Licență pentru activitate de întreținere a cazinoului"}
+{"code":"003000553","title":"Licență pentru activitatea de operare cu tichetele de masă, inclusiv de emitere şi rambursare a valorii acestora"}
+{"code":"003000566","title":"Licență pentru activitatea de protecție a informației: importul, exportul, proiectarea, producerea şi comercializarea mijloacelor tehnice speciale destinate pentru obținerea ascunsă a informației (cu excepția activității desfășurate de autoritățile publice învestite cu acest drept prin lege); și\/sau  prestarea serviciilor în domeniul protecției criptografice a informației (cu excepția activității de protecție a secretului de stat); și\/sau prestarea serviciilor în domeniul protecției tehnice a informației (cu excepția activității de protecție a secretului de stat)."}
+{"code":"003000582","title":"Licenţă pentru activitatea legată de plasarea în câmpul muncii a cetăţenilor în ţară şi\/sau în străinătate, activitatea de încadrare\/înscriere a studenţilor în programe de schimb educaţional-cultural care prevăd componenta de angajare remunerată în câmpul muncii pentru o perioadă determinată de timp, în perioada vacanţei de vară."}
+{"code":"003001415","title":"Licenţă pentru desfășurarea activității de notar"}
+{"code":"018000276","title":"Licență pentru desfășurarea activității farmaceutice"}
+{"code":"003001512","title":"Licenţă pentru exercitarea activității de executor judecătoresc"}
+{"code":"003001457","title":"Licenţă pentru exercitarea profesiei de avocat"}
+{"code":"003000401","title":"Licență pentru fabricarea alcoolului etilic, a berii și a producției alcoolice, cu excepția vinului, produselor obținute pe bază de must și a produselor vitivinicole aromatizate în sensul Legii viei și vinului nr. 57\/2006, și\/sau păstrarea, comercializarea angro a alcoolului etilic, a berii și a producției alcoolice, cu excepția vinului, produselor obținute pe bază de must și a produselor vitivinicole aromatizate în sensul Legii viei și vinului nr. 57\/2006, produse de producătorii autohtoni"}
+{"code":"003000414","title":"Licență pentru importul produselor din tutun; importul şi\/sau prelucrarea industrială a tutunului; fabricarea produselor din tutun şi\/sau comercializarea angro a produselor din tutun şi a tutunului fermentat."}
+{"code":"003000427","title":"Licență pentru importul şi păstrarea alcoolului etilic; importul, păstrarea şi comercializarea angro a producţiei alcoolice şi\/sau a berii importate"}
+{"code":"003000430","title":"Licență pentru producerea, asamblarea, importul şi\/sau exportul, reexportul, comercializarea armelor şi munițiilor cu destinație civilă şi repararea armelor cu destinație civilă"}
+{"code":"003000579","title":"Licență pentru producerea, asamblarea, importul, exportul, reexportul, depozitarea, comercializarea articolelor pirotehnice şi\/sau prestarea serviciului „Spectacole pirotehnice şi focuri de artificii” cu articole pirotehnice de divertisment de destinație profesională"}
+{"code":"003000443","title":"Licenţă pentru producerea, importul, exportul, reexportul, comercializarea, depozitarea materialelor explozive şi\/sau efectuarea lucrărilor cu explozibil de uz civil "}
+{"code":"018000289","title":"Modificarea certificatului de inregistrare a medicamentului"}
+{"code":"018000292","title":"Modificarea postautorizare a produselor medicamentoase de uz uman"}
+{"code":"003000469","title":"Notificare pentru activitatea de detectiv particular"}
+{"code":"003001059","title":"Notificare privind desfășurarea activităților de întreprinzător în domeniul securității industriale nesupuse licențierii."}
+{"code":"003001062","title":"Notificare privind desfășurarea activităților de plasare pe piață și comercializarea a materialelor și produselor pentru construcții"}
+{"code":"003001075","title":"Notificare privind desfășurarea activităților de producere a materialelor și produselor pentru construcții"}
+{"code":"003001088","title":"Notificare privind importul semințelor neînregistrate în Catalogul soiurilor de plante"}
+{"code":"003001282","title":"Notificare privind importul, exportul sau tranzitul produselor supuse supravegherii și controlului sanitar-veterinar, fitosanitar și de siguranță a alimentelor"}
+{"code":"003001295","title":"Notificare privind importul\/producerea produselor de uz fitosanitar și fertilizanților"}
+{"code":"018000302","title":"Notificarea privind introducerea pe piață a dispozitivelor medicale\n"}
+{"code":"003000061","title":"Obținerea certificatului de calificare al auditorului"}
+{"code":"003000906","title":"Pașaport al stupinei"}
+{"code":"003001305","title":"Pașaport pentru animalul de companie"}
+{"code":"003001318","title":"Perfecționarea profesională a unui utilizator profesionist de produse de uz fitosanitar din categoriile de pericol 1 și 2 de toxicitate acută orală\/dermală"}
+{"code":"003001431","title":"Permis de armă, valabil numai în exercițiul atribuțiilor de serviciu"}
+{"code":"003001541","title":"Permis de dezactivare a armei"}
+{"code":"003000854","title":"Permis de exercitare pentru personalul care activează în domeniul nuclear și radiologic"}
+{"code":"003001567","title":"Permis de procurare a armei de către persoane juridice"}
+{"code":"003001677","title":"Permis de reparare a armei"}
+{"code":"003001664","title":"Permis de transfer pentru scoaterea definitivă de pe teritoriul Republicii Moldova a armelor și munițiilor"}
+{"code":"003001651","title":"Permis de transport al armelor și al munițiilor pentru scoatere temporară din țară pentru persoană juridică"}
+{"code":"003001402","title":"Permis de zbor "}
+{"code":"003001091","title":"Permisiune pentru obţinerea şi depozitarea materialelor explozive"}
+{"code":"003001004","title":"Raportarea financiară"}
+{"code":"003001017","title":"Raportarea statistică"}
+{"code":"003001583","title":"Recepționarea comunicatelor despre producerea accidentelor tehnice la obiectele aflate la etapa de construcție sau în exploatare"}
+{"code":"003001570","title":"Vizarea\/prelungirea, o dată la 3 ani, a permisului de armă, valabil numai în exercițiul atribuțiilor de serviciu"}
+{"code":"004000017","title":"Certificat\/duplicat al certificatului de adopție"}
+{"code":"004000020","title":"Certificat\/duplicat al certificatului de paternitate"}
+{"code":"005000131","title":"Abrogarea Decretului sau a părții din Decretul Președintelui Republicii Moldova privind aprobarea renunțării la cetățenia Republicii Moldova"}
+{"code":"005000128","title":"Adeverința privind acordarea cetățeniei Republicii Moldova în temeiul Decretului Președintelui Republicii Moldova de acordare a cetățeniei Republicii Moldova în interesele republicii"}
+{"code":"015000273","title":"Adeverință de recrut"}
+{"code":"005000089","title":"Dobândirea cetățeniei Republicii Moldova prin naturalizare"}
+{"code":"005000092","title":"Dobândirea cetățeniei Republicii Moldova prin recunoaștere (în temeiul prevederilor art. 12, alin. (1(1)) din Legea cetăţeniei Republicii Moldova nr. 1024\/2000)"}
+{"code":"005000115","title":"Dobândirea cetățeniei Republicii Moldova prin recunoaștere (în temeiul prevederilor art. 12, alin. (2) din Legea cetăţeniei Republicii Moldova nr. 1024\/2000)"}
+{"code":"005000021","title":"Eliberarea adeverinței privind renunțarea la cetățenia Republicii Moldova"}
+{"code":"005000034","title":"Examinarea cererii privind redobândirea cetățeniei Republicii Moldova pentru persoanele stabilite cu domiciliu permanent în străinătate, cu eliberarea adeverinței"}
+{"code":"005000047","title":"Examinarea cererii privind renunțarea la cetățenia Republicii Moldova și perfectarea setului de documente respectiv, cu eliberarea adeverinței corespunzătoare."}
+{"code":"005000018","title":"Înregistrarea la domiciliu și\/sau la reședința temporară sau radierea din evidență "}
+{"code":"005000076","title":"Livretul militar"}
+{"code":"005000102","title":"Redobândirea cetățeniei Republicii Moldova"}
+{"code":"006000174","title":"Asigurarea probelor"}
+{"code":"006000190","title":"Cazier judiciar privind verificarea persoanelor fizice sau juridice peste hotare (CSI)"}
+{"code":"006000022","title":"Cazier judiciar\/ detaliat\/ contravenţional pentru persoanele fizice și juridice (de pe teritoriul RM)"}
+{"code":"006000271","title":"Certificat de deținător de armă care face obiectul declarării pentru persoana fizică"}
+{"code":"006000048","title":"Certificat despre unitatea de transport în căutare locală"}
+{"code":"006000051","title":"Certificat despre unitatea de transport în căutare peste hotare (CSI)"}
+{"code":"006000297","title":"Duplicat al certificatului de armă pentru deținere și\/sau, după caz, port și folosire a armei neletale, care face obiectul declarării"}
+{"code":"006000307","title":"Duplicat al certificatului de deținere a armei pentru persoana fizică"}
+{"code":"006000349","title":"Duplicat al permisului de armă declarat pierdut, sustras, deteriorat"}
+{"code":"006000310","title":"Duplicat al permisului de armă, în cazul schimbării locului de domiciliu, a posesorului, pentru persoana fizică"}
+{"code":"006000336","title":"Duplicat de permis de armă, valabil numai în exercițiul atribuțiilor de serviciu declarat pierdut, sustras, deteriorat"}
+{"code":"006000077","title":"Efectuarea examinării balistice a armelor dezactivate "}
+{"code":"006000161","title":"Efectuarea expertizelor extra-judiciare balistice a armelor și munițiilor"}
+{"code":"006000132","title":"Efectuarea tragerii experimentale din armele de foc și marcarea armelor"}
+{"code":"006000064","title":"Eliberarea informațiilor din arhiva Ministerului Afacerilor Interne"}
+{"code":"006000187","title":"Înregistrarea dactiloscopică benevolă "}
+{"code":"006000242","title":"Înregistrarea dactiloscopică obligatorie"}
+{"code":"006000352","title":"Permis de armă provizoriu"}
+{"code":"006000284","title":"Permis de înstrăinare a armei"}
+{"code":"006000200","title":"Permis de procurare a armei de către persoane fizice"}
+{"code":"006000239","title":"Permis de transport al armelor și munițiilor pentru persoană juridică"}
+{"code":"006000365","title":"Permis de transport al armelor\/munițiilor pentru scoaterea temporară din țară pentru persoana fizică"}
+{"code":"006000226","title":"Vizarea permisului de armă de deținere și, după caz, de port al armei pentru persoana fizică"}
+{"code":"007000065","title":" Determinarea gradului de dizabilitate și cauzei dizabilităţii şi perioadei pentru care a fost determinat gradul de dizabilitate.\n"}
+{"code":"007000036","title":"Ajutor material unic pentru însănătoșire cetățenilor care au avut de suferit de pe urma catastrofei de la C. A. E. Cernobîl\n"}
+{"code":"007000049","title":"Avizarea prelungirii certificatului de concediu medical în cazul tratamentului de durată"}
+{"code":"007000023","title":"Compensație unică pentru prejudiciul adus sănătății persoanelor cu dizabilităţi din rândul participanţilor la lichidarea consecinţelor catastrofei de la Cernobîl şi la experienţele nucleare, avariilor cu radiaţie ionizată şi a consecinţelor lor la obiectivele atomice civile sau militare"}
+{"code":"007000094","title":"Elaborarea recomandărilor generale privind necesităţile de reabilitare și incluziune socială ale persoanei cu dizabilităţi."}
+{"code":"007000117","title":"Emiterea Concluziei privind necesitatea deservirii cu transport, conform prevederilor actelor normative."}
+{"code":"007000010","title":"Indemnizaţie de dizabilitate ca urmare a unui accident de muncă sau a unei boli profesionale"}
+{"code":"015000312","title":"Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl"}
+{"code":"007000104","title":"Stabilirea procentului pierderii capacităţii de muncă ca urmare a accidentului de muncă sau bolii profesionale."}
+{"code":"008000066","title":"Act de coordonare a traseului de transportare a mărfurilor periculoase"}
+{"code":"008000257","title":"Adeverinţa ce conţine date din Registrul de stat al conducătorilor de vehicule"}
+{"code":"008000011","title":"Adeverința ce conține date din Registrul de stat al transporturilor"}
+{"code":"008000095","title":"Autorizarea activităţii de cîntărire a vehiculelor rutiere în vederea eliberării certificatului internaţional de cîntărire a vehiculului rutier"}
+{"code":"008000079","title":"Autorizație de transport rutier  în trafic internațional"}
+{"code":"008000082","title":"Autorizație multilaterală CEMT cu carnet de drum (anuală sau pe termen scurt)"}
+{"code":"008000147","title":"Autorizaţie pentru activitatea de inspecţie tehnică periodică a vehiculelor rutiere"}
+{"code":"008000105","title":"Autorizație pentru servicii ocazionale neliberalizate de transport persoane"}
+{"code":"008000118","title":"Autorizație pentru transportatorii străini care efectuează rute regulate bilaterale sau tranzit pe teritoriul Republicii Moldova"}
+{"code":"008000121","title":"Autorizație specială de transport pentru drumurile publice a transporturilor rutiere cu depășirea masei totale, a maselor pe axe și\/sau a dimensiunilor maxime admise"}
+{"code":"008000134","title":"Autorizații de transport rutier de persoane prin servicii regulate"}
+{"code":"008000176","title":"Avizarea instalării mijloacelor de semnalizare rutieră și altor dispozitive (privind siguranța traficului rutier) și a măsurilor de restricție a circulației"}
+{"code":"008000150","title":"Carnet de drum suplimentar care însoțește autorizația CEMT"}
+{"code":"008000202","title":"Carnetul foii de parcurs (CFP)"}
+{"code":"008000260","title":"Carnetul INTERBUS"}
+{"code":"008000215","title":"Cartela tahografică"}
+{"code":"008000286","title":"Certificat CEMT de corespundere a remorcii\/semiremorcii cu cerințele de siguranță"}
+{"code":"008000273","title":"Certificat CEMT pentru condițiile controlului tehnic al autovehiculelor și remorcilor"}
+{"code":"008000309","title":"Certificat de agreare pentru vehiculele care transportă substanţe periculoase (ADR)"}
+{"code":"008000367","title":"Certificat de competență profesională în domeniul transporturilor rutiere și cel conex transporturilor rutiere"}
+{"code":"008000189","title":"Coordonarea itinerarelor pentru instruirea șoferilor"}
+{"code":"008000192","title":"Coordonarea proiectelor şi inspecţia obiectelor de arhitectură mică şi a reclamei amplasate în zona de protecţie a drumurilor"}
+{"code":"008000037","title":"Coordonarea schemelor de amplasare afişajului electoral pe mijloacele de transport"}
+{"code":"008000040","title":"Coordonarea schemelor de distribuire a inscripţiei şi reclamei pe mijloacele de transport"}
+{"code":"008000299","title":"Diapazonul numerelor unicate ale rapoartelor de inspecție tehnică periodică"}
+{"code":"008000370","title":"Examinarea conducătorului de vehicule"}
+{"code":"008000024","title":"Inspecția vehiculelor reutilate, reconstruite, supuse reparației capitale și construite în mod individual, cu formularea concluziei privind corespunderea stării tehnice a acestora cu cerințele securității circulației rutiere"}
+{"code":"008000228","title":"Înmatricularea autovehiculelor și remorcilor"}
+{"code":"008000312","title":"Înregistrarea oficială a operatorilor de transport rutier"}
+{"code":"008000338","title":"Notificare simplificată pentru activitatea de transport rutier în cont propriu"}
+{"code":"008000325","title":"Notificarea şi înregistrarea activităţii de autogară"}
+{"code":"008000341","title":"Notificarea şi înregistrarea activităţii de autoservice"}
+{"code":"008000354","title":"Notificarea şi înregistrarea activităţii de montare, reparare şi verificare a tahografelor şi a limitatoarelor de viteză"}
+{"code":"008000231","title":"Permis de conducere"}
+{"code":"008000383","title":"Permis de conducere internațional"}
+{"code":"008000053","title":"Permis pentru conducătorii unor categorii speciale de automobile"}
+{"code":"008000244","title":"Radierea din evidenţă a vehiculelor"}
+{"code":"009000067","title":"Adeverință de absolvire a cursului de instruire pentru mânuirea armei"}
+{"code":"009000070","title":"Autentificarea actelor de studii"}
+{"code":"009000122","title":"Avizarea loturilor de carte intrate în țară cu titlu de ajutor umanitar"}
+{"code":"009000038","title":"Coordonarea programelor de formare profesională a adulților furnizate de prestatorii de servicii educaționale în baza rezultatelor evaluării externe realizate de către Agenția Națională de Asigurare a Calității în Educație și Cercetare (ANACEC) "}
+{"code":"009000106","title":"Evaluarea candidaților la funcția de director (etapa II)"}
+{"code":"009000148","title":"Evaluarea externă a calității în vederea autorizării de funcționare provizorie şi acreditării programelor de studii şi a instituțiilor de învățământ profesional tehnic, superior şi de formare continuă."}
+{"code":"009000164","title":"Evaluarea externă a instituțiilor de învățământ general și de evaluare a cadrelor de conducere din învățământul general"}
+{"code":"009000151","title":"Evaluarea personalului științifico-didactic"}
+{"code":"009000119","title":"Perfectarea actelor de studii pentru absolvenții din raioanele de est ale RM și or. Bender"}
+{"code":"009000096","title":"Recunoașterea și echivalarea actelor de studii și a calificărilor obținute în străinătate"}
+{"code":"010000029","title":"Înregistrarea contractelor individuale de muncă ale emigranților"}
+{"code":"010000016","title":"Înregistrarea oficială în calitate de șomer"}
+{"code":"010000058","title":"Servicii de ghidare în carieră pentru persoanele aflate în căutarea unui loc de muncă"}
+{"code":"010000045","title":"Servicii de informare privind piața muncii pentru persoanele aflate în căutarea unui loc de muncă"}
+{"code":"011000033","title":" Acord pentru introducerea și\/sau aclimatizarea, în scopuri științifice și economice, a obiectelor regnului vegetal în flora sălbatică a Republicii Moldova"}
+{"code":"011000062","title":" Autorizație de mediu privind gestionarea deșeurilor"}
+{"code":"011000075","title":" Aviz de mediu la eliberarea autorizației de schimbare a destinației construcțiilor și amenajărilor"}
+{"code":"011000444","title":" Aviz de mediu pentru coordonarea schemei de amplasare a imobilului, terenului și a rețelelor edilitare la elaborarea certificatului de urbanism pentru proiectare"}
+{"code":"011000431","title":"Acord de mediu (în cadrul procedurii de evaluare a impactului asupra mediului)"}
+{"code":"011000457","title":"Acord pentru exportul animalelor sălbatice "}
+{"code":"011000509","title":"Acord pentru exportul de plante\n"}
+{"code":"011000460","title":"Acord pentru folosința obiectelor regnului vegetal în scopuri culturale, educaționale, turistice, de ameliorare a sănătății, recreative, estetice și sportive"}
+{"code":"011000473","title":"Acord pentru folosința obiectelor regnului vegetal proprietate publică în scopuri științifice, cu sau fără extragerea obiectelor regnului vegetal și a părților acestora din mediul lor de creștere"}
+{"code":"011000486","title":"Acord pentru importul animalelor și\/sau plantelor sălbatice "}
+{"code":"011000499","title":"Acord pentru strămutarea, aclimatizarea și încrucișarea animalelor"}
+{"code":"011000758","title":"Act de confirmare a perimetrului minier"}
+{"code":"011000512","title":"Act permisiv care oferă posibilitatea persoanelor fizice și juridice să colecteze obiecte ale regnului vegetal (plantele spontane, inclusiv medicinale naturale) și a părților acestora"}
+{"code":"011000305","title":"Actul de confirmare a perimetrului geologic pentru explorarea subsolului"}
+{"code":"011000525","title":"Autorizația de emisie a poluanților în atmosferă de la surse fixe"}
+{"code":"011000538","title":"Autorizația pentru importul, exportul sau reexportul substanțelor care distrug stratul de ozon, al produselor și al echipamentului care conțin asemenea substanțe"}
+{"code":"011000541","title":"Autorizație de folosință specială a apei"}
+{"code":"011000554","title":"Autorizație de pescuit de control"}
+{"code":"011000567","title":"Autorizație pentru cazurile excepționale de vânătoare în scopuri științifice, cultural-educative și estetice în termenele și locurile interzise pentru vânătoare sau a animalelor a căror dobândire este limitată, precum și întreținerea acestora în captivitate pentru scopurile menționate"}
+{"code":"011000570","title":"Autorizație pentru dobândirea animalelor care nu constituie obiecte ale vânatului și pescuitului (melci, broaște, șopârle, șerpi)"}
+{"code":"011000583","title":"Autorizație pentru folosința specială a animalelor sau a plantelor incluse în Cartea Roșie a Republicii Moldova în scopuri științifice, de selecție, inclusiv de reproducere, răspândire, cultivare\/creștere, aclimatizare a fiecărui reprezentant în parte, în scopuri culturale (circ, expoziții zoologice, acvarii etc.), precum și în caz de epizootii"}
+{"code":"011000596","title":"Autorizație pentru pescuitul în scopuri științifice "}
+{"code":"011000606","title":"Autorizație pentru pescuitul reproducătorilor"}
+{"code":"011000619","title":"Autorizație pentru tăieri în fondul forestier și în vegetația forestieră din afara fondulrilor forestiere"}
+{"code":"011000020","title":"Autorizație pentru vânătoare"}
+{"code":"011000059","title":"Aviz al expertizei ecologice de stat"}
+{"code":"011000101","title":"Aviz al organului supravegherii de stat a măsurilor contra incendiilor la certificatul de urbanism pentru proiectare"}
+{"code":"011000114","title":"Aviz al organului supravegherii de stat a măsurilor contra incendiilor la schema de amplasare a imobilului\/terenului și a rețelelor edilitare pentru obținerea certificatului de urbanism pentru proiectare"}
+{"code":"011000088","title":"Aviz al organului supravegherii de stat a măsurilor contra incendiilor și protecției civile la schema de amplasare a imobilului și a rețelelor edilitare pentru schimbarea destinației terenului  "}
+{"code":"011000091","title":"Aviz al organului supravegherii de stat a măsurilor contra incendiilor și protecției civile pentru emiterea autorizației de mediu pentru folosința specială a apei"}
+{"code":"011000127","title":"Aviz de apărare împotriva incendiilor și de stingere a incendiilor la desfășurarea unor genuri de activitate"}
+{"code":"011000321","title":"Aviz de conformitate a proiectelor de lucru cu reglementările tehnice şi actele normative în vigoare"}
+{"code":"011000622","title":"Aviz de coordonare a Programului de realizare a evaluării impactului asupra mediului al activității planificate"}
+{"code":"011000635","title":"Aviz de mediu la coordonarea actului de selectare a terenului la schimbarea destinației terenului"}
+{"code":"011000347","title":"Aviz privind existența sau lipsa substanțelor minerale utile pe teritoriul preconizat pentru construcții"}
+{"code":"011000350","title":"Aviz privind protecția apelor subterane la amplasarea în zona III de protecție sanitară a prizelor de apă subterană a obiectelor care pot provoca pericol de contaminare chimică a apelor subterane"}
+{"code":"011000648","title":"Certificat de atribuire a cotei de pescuit comercial"}
+{"code":"011000651","title":"Certificat de înregistrare a colecțiilor de plante și animale din flora și fauna sălbatică"}
+{"code":"011000376","title":"Coordonarea documentației tehnice privind forarea sondelor arteziene"}
+{"code":"011000389","title":"Coordonarea documentației tehnice privind lichidarea sondelor arteziene"}
+{"code":"011000334","title":"Coordonarea normativelor pierderilor de substanţe minerale la extragere"}
+{"code":"011000392","title":"Coordonarea proiectării sondelor arteziene"}
+{"code":"011000130","title":"Coordonarea, din punctul de vedere al securităţii industriale, a planurilor anuale de desfăşurare a lucrărilor miniere"}
+{"code":"011000664","title":"Decizie pentru efectuarea evaluării prealabile a impactului asupra mediului al activităților planificate"}
+{"code":"011000677","title":"Decizie pentru importul, exportul, strămutarea, întreținerea în captivitate, reproducerea, aclimatizarea și încrucișarea animalelor în scopuri economice și de cercetări științifice"}
+{"code":"011000680","title":"Decizie pentru introducerea de specii alohtone, intervențiile asupra speciilor invazive, precum și reintroducerea speciilor indigene"}
+{"code":"011000143","title":"Declarație privind starea de apărare împotriva incendiilor"}
+{"code":"011000156","title":"Demers de executare a lucrărilor de dinamitare sau a lucrărilor cu materiale explozive"}
+{"code":"011000046","title":"Dovada privind lipsa impactului negativ al deșeurilor asupra calității apelor subterane"}
+{"code":"011000761","title":"Eliberarea  informațiilor din  Fondul de stat de informații privind subsolul"}
+{"code":"011000282","title":"Furnizarea materialelor topogeodezice şi cartografice din Fondul Naţional de Date Geospaţiale"}
+{"code":"011000402","title":"Înregistrarea de stat a lucrărilor de cercetare geologică a subsolului"}
+{"code":"011000169","title":"Înregistrarea obiectelor industriale periculoase în Registrul de stat al obiectelor industriale periculoase și a declarației privind securitatea industrială"}
+{"code":"011000172","title":"Înregistrarea procesului-verbal de cercetare tehnică a cauzelor avariei"}
+{"code":"011000693","title":"Notificare pentru transportarea transfrontalieră a deșeurilor"}
+{"code":"011000185","title":"Notificare privind desfășurarea activităților agenților economici care acordă servicii din domeniul apărării împotriva incendiilor"}
+{"code":"011000198","title":"Notificare privind desfășurarea activităților de expertiză în domeniul securității industriale"}
+{"code":"011000208","title":"Notificare privind inițierea activității de montare și\/sau reglare, asistență tehnică a sistemelor automate de semnalizare și de stingere a incendiilor, precum și de protecție a clădirilor împotriva fumului și de înștiințare în caz de incendiu."}
+{"code":"011000211","title":"Notificare privind punerea în funcțiune a spațiilor de producere, asamblare, depozitare și comercializare a articolelor pirotehnice"}
+{"code":"011000716","title":"Permis de pescuit sportiv, amator și de agrement"}
+{"code":"011000729","title":"Permis pentru fotografierea, filmarea video sau cinematografică a animalelor în perioada de reproducere (de la 1 martie până la 31 iunie) în apropierea cuiburilor, vizuinilor, bârlogurilor etc., precum și în locurile de hibernare"}
+{"code":"011000732","title":"Permis pentru prinderea păsărilor și aflarea lângă cuib în scopul inelării"}
+{"code":"011000745","title":"Permis pentru reproducerea în captivitate a speciilor de animale de interes vânătoresc în gospodăria cinegetică complexă"}
+{"code":"011000703","title":"Permis\/certificat CITES (Convenția privind comerțul internațional cu specii de faună și floră sălbatică pe cale de dispariție)"}
+{"code":"011000224","title":"Proces-verbal de control în care se atestă lipsa sau existența abaterilor de la cerințele normelor și regulilor de apărare împotriva incendiilor la inițierea  unei activități economice, construcția și\/sau reconstrucția obiectivelor"}
+{"code":"011000237","title":"Proces-verbal de control în domeniul apărării împotriva incendiilor – pentru obținerea licenței pentru producerea, asamblarea, importul, exportul, reexportul, depozitarea, comercializarea articolelor pirotehnice și\/sau prestarea serviciului „spectacole pirotehnice și focuri de artificii” cu articole pirotehnice de divertisment de destinație profesională"}
+{"code":"011000415","title":"Raportarea de către beneficiarul subsolului despre mişcarea rezervelor și folosirea subsolului în scopuri nelegate de extragerea substanţelor minerale utile"}
+{"code":"011000428","title":"Raportarea informației geologice  Fondului de stat de informaţii privind subsolul"}
+{"code":"011000253","title":"Stabilirea admisibilității prestării serviciului de spectacol pirotehnic și focuri de artificii"}
+{"code":"011000017","title":"Subvenții pentru dezvoltarea agriculturii și mediului rural"}
+{"code":"012000380","title":"Acord de desființare a obiectivelor amplasate în zona drumului public și\/sau zonele de protecție ale acestuia"}
+{"code":"012000270","title":"Autorizarea instrumentelor muzicale la Introducerea şi scoaterea valorilor culturale"}
+{"code":"012000377","title":"Autorizație de amplasare a obiectivelor amplasate în zona drumului public și\/sau zonele de protecție ale acestuia"}
+{"code":"012000160","title":"Aviz pentru participare la licitațiile publice în domeniul executării lucrărilor de construcții"}
+{"code":"012000241","title":"Avizarea documentațiilor de proiect privind edificarea, intervenția sau restaurarea monumentelor de for public"}
+{"code":"012000254","title":"Avizarea documentațiilor de proiect privind intervențiile la imobilele cu statut de monument protejat și proiectele de intervenții în zonele construite protejate"}
+{"code":"012000238","title":"Certificat de atestare tehnico-profesională a specialiștilor cu activități în construcții"}
+{"code":"012000018","title":"Certificat privind înscrierile în Registrul bunurilor imobile"}
+{"code":"012000021","title":"Certificat privind valoarea bunului imobil"}
+{"code":"012000034","title":"Conferirea\/modificarea adresei obiectelor adresabile"}
+{"code":"012000173","title":"Declarația din partea solicitantului privind demararea lucrărilor autorizate de construcție\/desființare a obiectului"}
+{"code":"012000076","title":"Efectuarea notărilor în Registrul bunurilor imobile"}
+{"code":"012000186","title":"Emiterea concluziei pentru procesele-verbale de recepție la terminarea lucrărilor și recepția finală la obiectele finanțate din bugetul de stat sau bugetele locale"}
+{"code":"012000102","title":"Extras din capitolul supliment al Registrului bunurilor imobile"}
+{"code":"012000128","title":"Extras din Registrul bunurilor imobile"}
+{"code":"012000335","title":"Informație despre bunurile ce aparțin unei persoane fizice\/juridice din banca centrală de date, drepturi active"}
+{"code":"012000351","title":"Informație despre bunurile ce aparțin unei persoane fizice\/juridice din banca centrală de date, pentru Programul de stat „Prima casă”"}
+{"code":"012000348","title":"Informație despre bunurile ce aparțin unei persoane fizice\/juridice din banca centrală de date, toate drepturile"}
+{"code":"012000157","title":"Informație din Planul național de adrese"}
+{"code":"012000131","title":"Înregistrarea altor drepturi reale precum ipoteca, superficia, uzufructul, uzul, abitaţia, servitutea, dreptul de folosinţă asupra terenului statului sau unităţii administrative-teritoriale, concesiunea, gestiunea economică, etc."}
+{"code":"012000144","title":"Înregistrarea curentă a dreptului de proprietate"}
+{"code":"012000199","title":"Înregistrarea documentaţiei de proiect pentru lucrările de construcţie-montare, extindere, reconstrucţie, reutilare tehnică, conservare şi lichidare a obiectelor industriale periculoase"}
+{"code":"012000092","title":"Înregistrarea dreptului de proprietate asupra bunului imobil nou format"}
+{"code":"012000089","title":"Înregistrarea primară selectivă a dreptului de proprietate"}
+{"code":"012000209","title":"Notificare privind desfășurarea activităților de executare a lucrărilor de construcție, reconstrucție, consolidare, restaurare, reparație a construcțiilor, rețelelor tehnico-edilitare și drumurilor"}
+{"code":"012000212","title":"Notificare privind desfășurarea activităților de proiectare și\/sau verificare a documentației de proiect a construcțiilor, a rețelelor tehnico-edilitare și a drumurilor"}
+{"code":"012000319","title":"Plan cadastral al încăperii izolate"}
+{"code":"012000322","title":"Plan cadastral al locului de parcare"}
+{"code":"012000306","title":"Plan cadastral al terenului cu\/fără construcție"}
+{"code":"012000296","title":"Plan cadastral pentru fiecare sector ulterior"}
+{"code":"012000063","title":"Plan cadastral pentru primul sector cadastral"}
+{"code":"012000364","title":"Prescripții tehnice pentru amplasarea obiectivelor în zona drumului public și\/sau în zonele de protecție ale acestuia"}
+{"code":"012000050","title":"Recepția lucrărilor cadastrale"}
+{"code":"012000225","title":"Solicitare de participare în calitate de membru al comisiei de recepție a blocurilor locative ce depășesc 5 niveluri, finanțate din mijloace financiare proprietate privată"}
+{"code":"012000047","title":"Titlul de autentificare a dreptului deţinătorului de teren"}
+{"code":"013000080","title":"Autorizarea centrelor de asistență tehnică pentru mașinile de casă și de control\/imprimantele fiscale"}
+{"code":"013000103","title":"Autorizație de utilizator final"}
+{"code":"013000174","title":"Certificat de atestare în calitate de plătitor de TVA în conformitate cu standardele UE"}
+{"code":"013000019","title":"Certificat de atribuire a codului fiscal"}
+{"code":"013000158","title":"Certificat privind impozitul pe venit achitat de nerezident în Republica Moldova"}
+{"code":"013000064","title":"Certificat privind lipsa sau existența restanțelor față de buget"}
+{"code":"013000187","title":"Certificat privind sumele TVA nerestituite pentru mărfurile exportate"}
+{"code":"013000116","title":"Comanda seriei și diapazonului de numere pentru documentele primare"}
+{"code":"SFS11","title":"Conectarea la serviciile fiscale electronice pentru persoane fizice"}
+{"code":"013000161","title":"Conectarea la serviciile fiscale electronice pentru persoane juridice"}
+{"code":"013000035","title":"Confirmarea privind reluarea prezentării dărilor de seamă fiscale"}
+{"code":"013000022","title":"Confirmarea privind veniturilor obținute și obligațiile fiscale reținute\/achitate din venitul obținut în Republica Moldova de cetățenii Republicii Moldova"}
+{"code":"013000132","title":"Eliberarea certificatului de rezidență"}
+{"code":"013000190","title":"Eliberarea certificatului privind atestarea impozitului pe venit achitat de nerezident în Republica Moldova"}
+{"code":"013000129","title":"Eliberarea\/prelungirea patentei de întreprinzător"}
+{"code":"013000200","title":"Formulare tipizate de documente primare cu regim special"}
+{"code":"013000093","title":"Înregistrarea activității de prelucrare și\/sau fabricare a mărfurilor supuse accizelor"}
+{"code":"013000048","title":"Înregistrarea on-line a contribuabililor"}
+{"code":"013000051","title":"Înregistrarea subdiviziunilor\/obiectelor impozabile"}
+{"code":"013000077","title":"Înregistrarea și sigilarea echipamentelor de casă și de control"}
+{"code":"015000312","title":"Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl"}
+{"code":"SFS12","title":"Soluția fiscală individuală anticipată"}
+{"code":"014000023","title":"Eliberarea titlului de călătorie"}
+{"code":"014000010","title":"Paşaport al cetățeanului Republicii Moldova"}
+{"code":"014000036","title":"Viză electronică pentru Republica Moldova"}
+{"code":"015000024","title":"Adeverința ce conține date din  Registrul de stat al populaţiei sau din alte resurse informaționale ale Agenției Servicii Publice (adeverință) "}
+{"code":"015000273","title":"Adeverință de recrut"}
+{"code":"015000286","title":"Adeverinţă privind excluderea din evidenţa militară"}
+{"code":"015000150","title":"Aviz cu privire la anularea, completarea şi\/sau rectificarea actului de stare civilă"}
+{"code":"015000040","title":"Aviz privind afirmarea\/infirmarea schimbării numelui și\/sau prenumelui"}
+{"code":"015000163","title":"Buletin de identitate al cetățeanului Republicii Moldova"}
+{"code":"015000189","title":"Buletin de identitate electronic al cetățeanului Republicii Moldova"}
+{"code":"015000192","title":"Buletin de identitate provizoriu al cetățeanului Republicii Moldova"}
+{"code":"015000121","title":"Certificarea faptelor de stare civilă consemnate în localitățile din stânga Nistrului și municipiul Bender"}
+{"code":"015000118","title":"Certificat de capacitate matrimonială"}
+{"code":"015000105","title":"Certificat explicativ"}
+{"code":"015000134","title":"Certificat privind starea civilă"}
+{"code":"004000017","title":"Certificat\/duplicat al certificatului de adopție"}
+{"code":"015000338","title":"Certificat\/duplicat al certificatului de divorț"}
+{"code":"015000325","title":"Certificat\/duplicat al certificatului de naștere"}
+{"code":"004000020","title":"Certificat\/duplicat al certificatului de paternitate"}
+{"code":"015000341","title":"Certificat\/duplicat al certificatului de schimbare a numelui şi\/sau prenumelui"}
+{"code":"015000228","title":"Examinarea cererii privind schimbarea numelui și\/sau prenumelui, și\/sau patronimicului, cu eliberarea certificatului respectiv."}
+{"code":"015000406","title":"Extras de pe actul de divorț"}
+{"code":"015000383","title":"Extras de pe actul de naștere"}
+{"code":"015000419","title":"Extras de pe actul de schimbare a numelui şi\/sau prenumelui"}
+{"code":"015000176","title":"Extras din Registrul de stat al populaţiei"}
+{"code":"015000095","title":"Extras multilingv de pe actul de căsătorie"}
+{"code":"015000396","title":"Extras multilingv de pe actul de naștere"}
+{"code":"015000215","title":"Înregistrare divorț"}
+{"code":"015000079","title":"Înregistrarea schimbării numelui și\/sau a prenumelui"}
+{"code":"015000082","title":"Înregistrarea ulterioară a actului de stare civilă"}
+{"code":"015000257","title":"Întocmirea și eliberarea actelor de identitate a marinarului pentru cetățenii Republicii Moldova"}
+{"code":"015000312","title":"Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl"}
+{"code":"015000309","title":"Legitimație de veteran al serviciului militar"}
+{"code":"015000299","title":"Legitimaţie de veteran de război"}
+{"code":"015000053","title":"Modificarea (rectificarea, completarea sau anularea) actului de stare civilă"}
+{"code":"015000066","title":"Reconstituirea actului de stare civilă"}
+{"code":"015000231","title":"Transcrierea actelor de stare civilă"}
+{"code":"015000037","title":"Transcrierea actului de stare civilă"}
+{"code":"015000273","title":"Adeverință de recrut"}
+{"code":"016000012","title":"Efectuarea înscrisurilor pe acte"}
+{"code":"016000025","title":"Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoarea clientului"}
+{"code":"015000312","title":"Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl"}
+{"code":"015000309","title":"Legitimație de veteran al serviciului militar"}
+{"code":"015000299","title":"Legitimaţie de veteran de război"}
+{"code":"017000013","title":"Acordarea dreptului de aflare"}
+{"code":"017000084","title":"Acordarea dreptului de repatriere"}
+{"code":"017000071","title":"Acordarea dreptului de ședere provizorie\/permanentă"}
+{"code":"017000042","title":"Acordarea protecției internaționale"}
+{"code":"017000152","title":"Acordarea tolerării rămânerii pe teritoriul Republicii Moldova"}
+{"code":"017000055","title":"Adeverinţa privind confirmarea statutului străinului pe teritoriul Republicii Moldova "}
+{"code":"017000026","title":"Autorizarea emigrării cetățeanului Republicii Moldova"}
+{"code":"017000110","title":"Autorizarea emigrării străinilor cu domiciliul permanent în Republica Moldova"}
+{"code":"017000068","title":"Aviz pentru reîntregirea familiei"}
+{"code":"017000097","title":"Certificat de confirmare a statutului de apatrid al solicitantului"}
+{"code":"017000149","title":"Document de identitate temporar de solicitant de azil"}
+{"code":"017000039","title":"Invitație pentru cetățenii străini"}
+{"code":"017000136","title":"Înregistrarea și\\sau radierea din evidență la domiciliu sau la reședința temporară"}
+{"code":"017000107","title":"Prelungirea vizelor pentru străini"}
+{"code":"017000123","title":"Recunoașterea statutului de apatrid"}
+{"code":"018000098","title":"Acordarea\/suspendarea statutului de persoană asigurată în sistemul asigurării obligatorii de asistenţă medicală"}
+{"code":"018000166","title":"Atestarea și legitimarea donatorului voluntar permanent de sânge"}
+{"code":"018000072","title":"Autorizarea instituţiilor medico-sanitare, băncilor de ţesuturi şi\/sau celule, care desfăşoară activităţi de prelevare, transport şi livrare de ţesuturi sau celule."}
+{"code":"018000085","title":"Autorizarea persoanelor juridice care desfășoară activități de prelevare, transport și livrare de țesuturi sau celule"}
+{"code":"018000315","title":"Autorizarea produselor medicamentoase de uz uman"}
+{"code":"018000179","title":"Autorizație de activitate pentru utilizarea obiectivelor și încăperilor destinate activităților legate de circulația substanțelor stupefiante, psihotrope și a precursorilor"}
+{"code":"018000195","title":"Autorizaţie de import\/export al substanţelor stupefiante, psihotrope şi al precursorilor"}
+{"code":"018000205","title":"Autorizație pentru efectuarea testărilor clinice pentru medicamente"}
+{"code":"018000218","title":"Autorizaţie pentru fabricarea medicamentelor"}
+{"code":"018000182","title":"Autorizație pentru importul medicamentelor înregistrate și\/sau neînregistrate, cu scopul înregistrării"}
+{"code":"018000331","title":"Autorizație sanitară de funcționare a obiectivelor"}
+{"code":"018000467","title":"Aviz sanitar la proiect"}
+{"code":"018000470","title":"Aviz sanitar pentru echipamente, instalații și utilaj"}
+{"code":"018000344","title":"Aviz sanitar pentru produse cu impact asupra sănătății\n"}
+{"code":"018000454","title":"Aviz sanitar privind atribuirea terenului pentru construcție\/reconstrucţie"}
+{"code":"018000438","title":"Avizarea sanitară asupra menţiunilor de sănătate"}
+{"code":"018000221","title":"Avizarea şi înregistrarea preţurilor de producător la medicamente"}
+{"code":"018000030","title":"Bilet de tratament balneosanatorial pentru veterani"}
+{"code":"018000056","title":"Bilet de tratament balneosanatorial persoanelor asigurate"}
+{"code":"018000043","title":"Bilet de tratament în instituţiile balneosanatoriale persoanelor care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl şi unor categorii de persoane"}
+{"code":"018000234","title":"Certificat de bună practică de distribuție a medicamentelor (GDP)"}
+{"code":"018000373","title":"Certificat de bună practică de fabricație (GMP) a medicamentelor de uz veterinar"}
+{"code":"018000247","title":"Certificat de bună practică de fabricație a medicamentelor de uz uman (GMP)"}
+{"code":"018000250","title":"Certificat de calitate al medicamentului"}
+{"code":"018000357","title":"Certificat de dezinfecție"}
+{"code":"018000412","title":"Certificat de înregistrare a medicamentului"}
+{"code":"018000069","title":"Certificat privind beneficierea\/nebeneficierea de bilete de tratament balneosanatorial prin intermediul casei teritoriale de asigurări sociale"}
+{"code":"018000386","title":"Certificatul de calitate a semințelor\/buletinul de analiză a semințelor pentru uz intern"}
+{"code":"018000027","title":"Compensaţie anuală bănească în mărimea costului mediu al biletului"}
+{"code":"018000014","title":"Compensaţie bănească în locul biletelor de tratament sanatorial gratuit persoanelor cu dizabilități de pe urma războiului"}
+{"code":"018000328","title":"Controlul de stat al calității medicamentului"}
+{"code":"018000108","title":"Eliberarea adeverinței ce confirmă statutul persoanei în cadrul sistemului asigurării obligatorii de asistenţă medicală"}
+{"code":"018000399","title":"Evaluarea și acreditarea instituțiilor medico-sanitare și farmaceutice"}
+{"code":"018000263","title":"Înregistrarea dispozitivelor medicale în Registrul oficial"}
+{"code":"018000111","title":"Înregistrarea persoanei la medicul de familie din instituția medico-sanitară ce prestează asistență medicală primară în cadrul asigurării obligatorii de asistență medicală"}
+{"code":"018000425","title":"Înregistrarea produselor alimentare noi"}
+{"code":"018000409","title":"Înregistrarea produselor biocide "}
+{"code":"018000441","title":"Înregistrarea suplimentelor alimentare"}
+{"code":"018000124","title":"Înregistrarea unităților și persoanelor fizice, altele decât cele înregistrate de către organul înregistrării de stat, mediatorilor, notarilor, avocaților, executorilor judecătorești, experților judiciari care activează în cadrul unui birou de expertiză judiciară, interpreților și traducătorilor, administratorilor autorizați"}
+{"code":"015000312","title":"Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl"}
+{"code":"015000309","title":"Legitimație de veteran al serviciului militar"}
+{"code":"018000276","title":"Licență pentru desfășurarea activității farmaceutice"}
+{"code":"018000289","title":"Modificarea certificatului de inregistrare a medicamentului"}
+{"code":"018000292","title":"Modificarea postautorizare a produselor medicamentoase de uz uman"}
+{"code":"018000302","title":"Notificarea privind introducerea pe piață a dispozitivelor medicale\n"}
+{"code":"018000137","title":"Raportarea informației de evidență nominală a persoanelor neangajate asigurate de Guvern"}
+{"code":"018000140","title":"Raportarea informației privind inițierea\/încetarea raporturilor de muncă"}
+{"code":"018000153","title":"Restituirea primelor de asigurare obligatorie de asistență medicală achitate în plus sau eronat la fondurile asigurării obligatorii de asistență medicală"}
+{"code":"019000015","title":"Atestarea mandatarilor autorizaţi sau evaluatorilor în domeniul proprietăţii intelectuale"}
+{"code":"019000468","title":"Cercetarea documentară pentru o cerere de brevet cu întocmirea și publicarea raportului de documentare"}
+{"code":"019000044","title":"Cercetarea documentară pentru o cerere de brevet cu raport de documentare întocmit de o autoritate internațională de documentare, întocmirea și publicarea raportului de documentare"}
+{"code":"019000057","title":"Depunerea cererii de brevet de invenție de scurtă durată\/deschiderea fazei naționale a cererii internaționale, inclusiv examinarea formală și publicarea cererii de brevet de invenție de scurtă durată"}
+{"code":"019000031","title":"Depunerea cererii de brevet de invenție\/deschiderea fazei naționale a cererii internaționale, inclusiv examinarea formală preliminară și publicarea cererii de brevet de invenție"}
+{"code":"019000060","title":"Depunerea cererii divizionare, inclusiv examinarea formală și publicarea cererii"}
+{"code":"019000073","title":"Depunerea si examinarea cererii de limitare a brevetului"}
+{"code":"019000086","title":"Depunerea și examinarea cererii de acordare a certificatului complementar de protecție"}
+{"code":"019000099","title":"Depunerea și examinarea cererii de înregistrare a topografiei circuitului integrat"}
+{"code":"019000109","title":"Depunerea și examinarea cererii de prelungire a termenului de valabilitate a brevetului de invenție de scurtă durată"}
+{"code":"019000471","title":"Depunerea și examinarea contestației la avizul provizoriu de respingere a cererii de înregistrare a indicației geografice, denumirii de origine sau specialității tradiționale garantate"}
+{"code":"019000675","title":"Depunerea și examinarea contestației la avizul provizoriu de respingere a cererii de înregistrare a mărcii"}
+{"code":"019000112","title":"Depunerea și examinarea formală a unei cereri de transformare a cererii de brevet european în procedura de validare în cerere de brevet național"}
+{"code":"019000578","title":"Depunerea și examinarea respectării condițiilor de depunere a cererii de înregistrare a desenului\/modelului industrial"}
+{"code":"019000125","title":"Depunerea și examinarea unei cereri privind transformarea cererii"}
+{"code":"019000714","title":"Depunerea și examinarea unei cereri privind transformarea înregistrării înternaționale în cerere națională (mărci)"}
+{"code":"019000484","title":"Depunerea unei opoziții"}
+{"code":"019000688","title":"Depunerea, examinarea respectării condiţiilor de depunere şi publicarea cererii de înregistrare a mărcii"}
+{"code":"019000497","title":"Depunerea, examinarea respectării condițiilor de depunere și publicarea cererii de înregistrare a unei indicații geografice, a unei denumiri de origine sau a unei specialități tradiționale garantate"}
+{"code":"019000138","title":"Depunerea, examinarea și publicarea cererii de brevet pentru soi de plantă "}
+{"code":"019000141","title":"Depunerea, examinarea și publicarea propunerii privind denumirea soiului de plantă"}
+{"code":"019000442","title":"Divizarea cererii sau a înregistrării desenului\/modelului industrial"}
+{"code":"019000701","title":"Divizarea cererii sau a înregistrării mărcii"}
+{"code":"019000154","title":"Eliberarea brevetului pentru un soi de plantă, inclusiv tipărirea fasciculului de brevet"}
+{"code":"019000167","title":"Eliberarea brevetului, inclusiv tipărirea fasciculului de brevet"}
+{"code":"019000170","title":"Eliberarea certificatului complementar de protecţie"}
+{"code":"019000183","title":"Eliberarea certificatului privind validarea brevetului european"}
+{"code":"019000196","title":"Eliberarea copiei echivalente a titlului de protecție, a copiei certificate de pe un document din dosarul OPI sau a unei adeverințe, a copiei pe hârtie de pe documentele din dosarul OPI sau din baza de date"}
+{"code":"019000617","title":"Eliberarea duplicatului adeverinței de înscriere\/adeverinţei de modificare a titularului de drepturi patrimoniale"}
+{"code":"019000620","title":"Eliberarea marcajelor de control pentru exemplare de opere și fonograme"}
+{"code":"019000206","title":"Eliberarea titlului de protecție în cazul transmiterii drepturilor"}
+{"code":"019000219","title":"Eliberarea unui document oficial cu privire la obiectele de proprietate industrială, de tipul: duplicat, act de prioritate, extras legalizat din registru etc."}
+{"code":"019000222","title":"Eliberarea unui nou fascicul de brevet pentru soi de plantă"}
+{"code":"019000235","title":"Examinarea cererii de brevet de invenție de scurtă durată"}
+{"code":"019000727","title":"Examinarea cererii de introducere a unei modificări"}
+{"code":"019000633","title":"Examinarea cererii de înscriere a unui obiect al dreptului de autor sau al drepturilor conexe "}
+{"code":"019000730","title":"Examinarea cererii și înscrierea modificării în contractul înregistrat pentru un obiect al proprietății industriale"}
+{"code":"019000248","title":"Examinarea de fond a cererii de brevet de invenție, inclusiv cercetarea documentară"}
+{"code":"019000581","title":"Examinarea de fond a cererii de înregistrare a desenului\/modelului industrial"}
+{"code":"019000507","title":"Examinarea de fond a cererii de înregistrare a indicației geografice, a denumirii de origine sau a specialității tradiționale garantate"}
+{"code":"019000691","title":"Examinarea de fond a cererii de înregistrare a mărcii"}
+{"code":"019000743","title":"Examinarea și înregistrarea contractului de cesiune, gaj, licență sau franciză pentru un obiect al proprietății industriale"}
+{"code":"019000756","title":"Examinarea și înregistrarea Regulamentului de utilizare a mărcii colective\/de certificare și publicarea informației privind aceasta"}
+{"code":"019000808","title":"Imprimarea şi eliberarea textului actului juridic din Registrul de stat al actelor juridice al Republicii Moldova"}
+{"code":"019000510","title":"Înregistrarea indicației geografice, denumirii de origine sau specialității tradiționale garantate "}
+{"code":"019000594","title":"Înregistrarea și eliberarea certificatului de înregistrare a desenului\/modelului industrial "}
+{"code":"019000565","title":"Înregistrarea și eliberarea certificatului de înregistrare a mărcii"}
+{"code":"019000659","title":"Înregistrarea și eliberarea certificatului de înregistrare a titularului marcajelor de control "}
+{"code":"019000251","title":"Înregistrarea unei topografii de circuit integrat"}
+{"code":"019000646","title":"Înscrierea modificării titularului drepturilor patrimoniale (inclusiv înscrierea modificărilor în registru) în temeiul contractului de cesiune, licenţă, altor acte care confirmă modificarea titularului drepturilor patrimoniale pentru un obiect al drepturilor de autor sau al drepturilor conexe"}
+{"code":"019000662","title":"Înscrierea și eliberarea adeverinței de înscriere privind un obiect al dreptului de autor sau al drepturilor conexe "}
+{"code":"021001079","title":"Legalizarea autenticităţii semnăturii judecătorului şi a ştampilei instanţei judecătoreşti pe deciziile judiciare"}
+{"code":"019000264","title":"Menţinerea în vigoare a brevetului de invenţie"}
+{"code":"019000277","title":"Menţinerea în vigoare a brevetului de invenţie de scurtă durată"}
+{"code":"019000280","title":"Menţinerea în vigoare a brevetului de invenţie de scurtă durată după prelungire"}
+{"code":"019000293","title":"Menținerea în vigoare a brevetului pentru soi de plantă"}
+{"code":"019000303","title":"Menţinerea în vigoare a Certificatului complementar de protecție"}
+{"code":"019000769","title":"Modificarea datelor înscrise în Registrul național al mandatarilor autorizați în proprietatea intelectuală"}
+{"code":"019000523","title":"Organizarea medierii\/arbitrajului"}
+{"code":"019000316","title":"Prelungirea termenului de procedură (pentru o acțiune într-o procedură în fața Agenției de Stat pentru Proprietatea Intelectuală)"}
+{"code":"019000455","title":"Publicarea desenului\/modelului industrial "}
+{"code":"019000329","title":"Publicarea și eliberarea brevetului de invenție de scurtă durată prelungit "}
+{"code":"019000332","title":"Publicarea traducerii corectate a fasciculului de brevet european validat"}
+{"code":"019000345","title":"Publicarea traducerii fasciculului de brevet european validat"}
+{"code":"019000358","title":"Publicarea traducerii fasciculului de brevet european validat, modificat în urma procedurii de opoziţie sau de limitare la Oficiul European de Brevete"}
+{"code":"019000361","title":"Publicarea traducerii revendicărilor din cererea de brevet european în procedura de validare"}
+{"code":"019000374","title":"Publicarea versiunii corectate a traducerii revendicărilor din cererea de brevet european în procedura de validare"}
+{"code":"019000772","title":"Radierea informației privind înregistrarea contractului"}
+{"code":"019000028","title":"Reatestarea evaluatorilor în domeniul proprietății intelectuale"}
+{"code":"019000552","title":"Recepționarea, verificarea, examinarea și transmiterea cererii conform procedurilor de înregistrare internațională, cu excepția invențiilor"}
+{"code":"019000387","title":"Recepționarea, verificarea, examinarea și transmiterea unei cereri internaționale conform prevederilor articolului 14 al Tratatului de cooperare în domeniul brevetelor (P.C.T.)"}
+{"code":"019000785","title":"Rectificarea unei erori"}
+{"code":"019000604","title":"Reînnoirea valabilității certificatului de înregistrare a desenului\/modelului industrial "}
+{"code":"019000549","title":"Reînnoirea valabilității certificatului de înregistrare a mărcii"}
+{"code":"019000390","title":"Repunerea în termenul omis"}
+{"code":"019000798","title":"Restabilirea\/repunerea în drepturi"}
+{"code":"019000400","title":"Retragerea cererii de înregistrare\/brevetare a obiectului de proprietate intelectuală, retragerea opoziției, retragerea contestației depuse împotriva deciziei examinării, renunțarea la titlul de protecție a obiectului de proprietate intelectuală"}
+{"code":"019000413","title":"Revendicarea priorității convenționale sau de expoziție într-o cerere de înregistrare\/brevetare a obiectului de proprietate industrială, inclusiv într-o cerere internațională"}
+{"code":"019000426","title":"Revendicarea priorității unei cereri depuse la Agenția de Stat pentru Proprietatea Intelectuală, corectarea sau suplimentarea unei revendicări a priorității"}
+{"code":"019000536","title":"Substituirea mărcii naționale cu o înregistrare internațională"}
+{"code":"019000439","title":"Tipărirea și eliberarea unui nou fascicul al titlului de protecție"}
+{"code":"020000064","title":"Asigurarea compatibilităţii electromagnetice a staţiilor de radiocomunicaţii"}
+{"code":"020000022","title":"Autorizarea generală de furnizare a rețelelor și\/sau serviciilor de comunicaţii electronice"}
+{"code":"020000077","title":"Autorizaţie a staţiilor de radiocomunicaţii ale navelor maritime şi fluviale"}
+{"code":"020000019","title":"Autorizație de desfășurare a activităților de instalare, operare, gestionare, mentenanță și\/sau lichidare a rețelelor de comunicații electronice la frontiera de stat"}
+{"code":"020000080","title":"Avizarea asignării frecvenţei radio, servicii de selectare, de calcul al compatibilității electromagnetice, coordonarea internă și internațională, notificarea benzilor de frecvențe, canalelor sau frecvențelor radio la Uniunea Internațională a Telecomunicațiilor"}
+{"code":"020000093","title":"Certificarea produselor de comunicații electronice"}
+{"code":"020000103","title":"Elaborarea caietelor de sarcini pentru proiectarea staţiilor de radiocomunicaţii la compartimentul radiotehnic"}
+{"code":"020000116","title":"Expertiza tehnică a proiectelor staţiilor de radiocomunicaţii la compartimentul radiotehnic"}
+{"code":"020000129","title":"Încercări de certificare a echipamentelor la compatibilitatea electromagnetică, la securitate și la conformarea cu cerințele privind utilizarea eficientă a spectrului de frecvențe radio, precum și încercări de evaluare a corespunderii cerințelor tehnice de limitare a expunerii populației la efectele cîmpurilor electromagnetice"}
+{"code":"020000035","title":"Licența de utilizare a canalelor sau frecvențelor radio în scopul furnizării rețelelor și\/sau serviciilor de comunicații electronice"}
+{"code":"020000048","title":"Licența de utilizare a resurselor de numerotare în scopul furnizării rețelelor și\/sau serviciilor de comunicații electronice"}
+{"code":"020000132","title":"Măsurarea parametrilor tehnici de emisie ai stațiilor de radiocomunicații"}
+{"code":"020000145","title":"Măsurarea şi evaluarea parametrilor de calitate a serviciilor de comunicaţii electronice furnizate prin intermediul reţelelor şi staţiilor de radiocomunicaţii"}
+{"code":"020000051","title":"Permis tehnic pentru utilizarea staţiilor de radiocomunicaţii"}
+{"code":"021000638","title":" Contracte privind RGRM(acces activ\/pasiv)"}
+{"code":"021000625","title":" Eliberare informație\/extras din Registrul dosarelor succesorale și testament (RDST)"}
+{"code":"021001150","title":"Acreditarea organismelor de evaluare a conformității"}
+{"code":"021000722","title":"Act privind înregistrarea garanției maritime"}
+{"code":"021000748","title":"Act privind înregistrarea\/transferul\/achitarea gajului navei"}
+{"code":"021000751","title":"Act privind modificarea caracteristicilor principale ale navei"}
+{"code":"021000764","title":"Act privind transferul dreptului de proprietate asupra navei"}
+{"code":"021000609","title":"Aplicarea apostilei pe actele oficiale eliberate pe numele şi în interesul persoanelor fizice şi\njuridice"}
+{"code":"021001147","title":"Atestarea laboratoarelor de încercări"}
+{"code":"021000777","title":"Autentificarea actelor de bord (jurnalelor de bord, registrelor navale, jurnalelor unice de inspectare a navelor etc.)\n"}
+{"code":"021000395","title":"Autentificarea contractului, cu excepția contractului de înstrăinare a bunurilor imobile și a contractului de gaj"}
+{"code":"021000405","title":"Autentificarea procurii"}
+{"code":"021000418","title":"Autentificarea testamentului\n"}
+{"code":"021000175","title":"Aviz privind importul ajutoarelor umanitare\t"}
+{"code":"009000122","title":"Avizarea loturilor de carte intrate în țară cu titlu de ajutor umanitar"}
+{"code":"021000780","title":"Brevetarea efectivului de comandă\/certificarea personalului navigant"}
+{"code":"021000421","title":"Certificarea unor fapte"}
+{"code":"021000793","title":"Certificat al echipajului minim pentru siguranța navei"}
+{"code":"021000036","title":"Certificat de arhivă\/extras din documentele Fondului Agenției Naționale a Arhivelor"}
+{"code":"021000803","title":"Certificat de bună stare de navigabilitate a navei"}
+{"code":"021000816","title":"Certificat de clasă"}
+{"code":"021000735","title":"Certificat de naţionalitate a navei"}
+{"code":"021000476","title":"Certificat de omologare (înregistrare) a produsului de uz fitosanitar sau a fertilizantului (cu excepţia celor marcaţi cu menţiunea 'Îngrăşămintele CE')"}
+{"code":"021000829","title":"Certificat de scutire pentru navele convenționale"}
+{"code":"021000832","title":"Certificat de tonaj"}
+{"code":"021000845","title":"Certificat privind existența\/lipsa impedimentelor"}
+{"code":"021000023","title":"Certificat social-juridic tematic"}
+{"code":"021000463","title":"Certificatul de acreditare al prestatorului de servicii sociale"}
+{"code":"021000719","title":"Confirmarea anuală a înregistrării  navelor în Registrul de stat al navelor al Republicii Moldova"}
+{"code":"021000858","title":"Confirmarea autenticității eliberării brevetelor marinarilor străini,  angajați pe navele care navighează sub pavilionul Republicii Moldova"}
+{"code":"021001037","title":"Copie de pe actele care confirmă includerea fondurilor fixe în capitalul social al întreprinderilor create în procesul privatizării"}
+{"code":"021000861","title":"Document de bord ce atestă starea tehnică a navei de navigație interioară"}
+{"code":"021001053","title":"Duplicat al actului notarial din fondul de arhivă notarială de stat"}
+{"code":"021000434","title":"Duplicat al actului notarial, întocmit de misiunea diplomatică sau de oficiul consular"}
+{"code":"021000094","title":"Efectuarea analizelor de arbitraj şi de control ale metalelor preţioase în orice formă şi în orice stare şi ale articolelor din ele, precum şi ale resturilor şi deşeurilor lor, la cererea organelor de drept, vamale şi a altor autorităţi"}
+{"code":"016000012","title":"Efectuarea înscrisurilor pe acte"}
+{"code":"021000612","title":"Eliberare informație\/extras din Registrul garanțiilor reale mobiliare (RGRM)"}
+{"code":"021000874","title":"Eliberarea certificatelor, extraselor, demersurilor etc."}
+{"code":"016000025","title":"Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoarea clientului"}
+{"code":"021000984","title":"Examinarea navei maritime înregistrate în Registrul de stat al navelor al Republicii Moldova privind corespunderea prevederilor convențiilor de către reprezentantul Agenției Navale a Republicii Moldova"}
+{"code":"021000997","title":"Examinarea navei maritime înregistrate în Registrul de stat al navelor al Republicii Moldova privind corespunderea prevederilor convențiilor, efectuată prin împuternicire"}
+{"code":"021000887","title":"Expertiza  podurilor plutitoare"}
+{"code":"021000942","title":"Expertiza inițială\/repetată la proiectarea navei de navigație interioară"}
+{"code":"021000913","title":"Expertiza la confecționarea materialelor, articolelor și reparația capitală a motoarelor diesel și a echipamentelor de la bordul navelor de navigație interioară"}
+{"code":"021000117","title":"Expertizarea amprentelor semnului de marcare de pe articolele din metale preţioase şi pietre preţioase"}
+{"code":"021000120","title":"Expertizarea metalelor preţioase şi diagnosticarea pietrelor preţioase, evaluarea lor"}
+{"code":"021001134","title":"Expertizarea şi certificarea bunurilor culturale mobile"}
+{"code":"021001095","title":"Extras din Registrul patrimoniului public"}
+{"code":"021000162","title":"Fabricarea reactivelor de probare, la comanda agenţilor economici care utilizează în activitatea lor metale preţioase"}
+{"code":"021000081","title":"Formularul privind legislaţia aplicabilă în baza prevederilor acordurilor internaţionale "}
+{"code":"021000065","title":"Formularul privind stagiul de cotizare realizat pe teritoriul Republicii Moldova"}
+{"code":"019000808","title":"Imprimarea şi eliberarea textului actului juridic din Registrul de stat al actelor juridice al Republicii Moldova"}
+{"code":"021000049","title":"Informaţia privind achitarea\/neachitarea contribuţiilor de asigurări sociale de stat\n"}
+{"code":"021000052","title":"Informația privind starea contului personal de asigurări sociale\n"}
+{"code":"021000078","title":"Informaţie privind beneficierea\/nebeneficierea de prestaţii sociale în sistemul public de asigurări sociale de stat al Republicii Moldova, pentru a fi prezentate peste hotare"}
+{"code":"021000683","title":"Informație\/certificat privind salariul mediu pe economie, nivelul inflației, minimul de existență."}
+{"code":"021000133","title":"Înregistrarea agenţilor economici, care practică activităţi cu metale preţioase şi pietre preţioase, precum şi a caselor de amanet"}
+{"code":"021000890","title":"Înregistrarea ambarcațiunilor în Catalogul naval al Republicii Moldova"}
+{"code":"021000146","title":"Înregistrarea semnelor nominale personale care se aplică pe articolele confecţionate din metale preţioase şi pietre preţioase"}
+{"code":"021001121","title":"Înregistrarea temporară\/permanentă în Registrul de stat al navelor al Republicii Moldova a navelor de navigație internă, exploatate pe căile de navigație internă ale Republicii Moldova și eliberarea certificatelor"}
+{"code":"021000939","title":"Înregistrarea temporară\/permanentă în Registrul de stat al navelor al Republicii Moldova a navelor maritime, de tip râu-mare și a navelor de navigație internă (convenționale\/nonconvenționale), exploatate pe căile internaționale de navigație"}
+{"code":"021000502","title":"Întocmirea actului privind protestele de mare"}
+{"code":"021000955","title":"Întocmirea documentelor cu privire la plecarea navelor în mare (indiferent de pavilion) și perceperea tarifului naval la chei"}
+{"code":"021000968","title":"Întocmirea documentelor cu privire la sosirea navelor din mare (indiferent de pavilion) și perceperea tarifului naval la chei"}
+{"code":"021001079","title":"Legalizarea autenticităţii semnăturii judecătorului şi a ştampilei instanţei judecătoreşti pe deciziile judiciare"}
+{"code":"021001082","title":"Legalizarea autenticităţii semnăturii notarului şi a ştampilei acestuia pe actele persoanelor fizice şi juridice"}
+{"code":"003001525","title":"Legitimație de expert judiciar, interpret şi\/sau traducător"}
+{"code":"021000489","title":"Notificarea introducerii în vedere omologării a mostrei de produs de uz fitosanitare sau feritilizant"}
+{"code":"021001118","title":"Permis de aflare în zona de frontieră pentru persoanele fizice și juridice"}
+{"code":"003001541","title":"Permis de dezactivare a armei"}
+{"code":"021001008","title":"Pilotarea navei pe căile navigabile interne și în acvatoriul Complexului portuar Giurgiulești"}
+{"code":"021000201","title":"Prezentarea informației din Registrul unic al organismelor de evaluare a conformității recunoscute"}
+{"code":"021000696","title":"Prezentarea informațiilor individuale și generalizate din situațiile financiare"}
+{"code":"021000706","title":"Prezentarea la solicitare a datelor generalizate"}
+{"code":"021000450","title":"Primirea documentelor la păstrare"}
+{"code":"021000159","title":"Probarea şi marcarea tuturor articolelor din metale preţioase fabricate pe teritoriul Republicii Moldova şi\/sau introduse în ţară pentru comercializare"}
+{"code":"021000900","title":"Radierea ambarcațiunii din Catalogul naval al Republicii Moldova"}
+{"code":"021001011","title":"Radierea temporară\/definitivă a navei din Registrul de stat al navelor al Republicii Moldova"}
+{"code":"021000214","title":"Recunoașterea (extinderea recunoașterii) organismelor de evaluare a conformității"}
+{"code":"021001024","title":"Schimbarea numelui navei și eliberarea actului respectiv"}
+{"code":"021000447","title":"Solicitarea unui act (act de stare civilă, act notarial, cazier judiciar etc.) sau a unei informații din Republica Moldova. Perfectarea și eliberarea unui alt document sau certificat, efectuarea unei alte acțiuni consulare decât cele menționate în compartimentele precedente, dar care sunt solicitate conform legislației statului străin și nu contravin legislației Republicii Moldova sau acordurilor la care ambele state sunt parte"}
+{"code":"021000515","title":"Supralegalizarea consulară a unui document eliberat de autoritățile Republicii Moldova și destinat utilizării în străinătate, pentru persoane fizice\/persoane juridice"}
+{"code":"021000528","title":"Supralegalizarea consulară a unui document eliberat de autoritățile unui stat străin sau cu participarea acestora, destinat utilizării în Republica Moldova, pentru persoane fizice și persoane juridice"}
+{"code":"021000492","title":"Traducerea și legalizarea traducerii documentelor și a extraselor din ele"}
