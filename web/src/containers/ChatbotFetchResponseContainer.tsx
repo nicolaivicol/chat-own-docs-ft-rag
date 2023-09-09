@@ -3,17 +3,12 @@ import useFetchPost from "../hooks/useFetchPost.ts";
 import { ASK_QUESTION_ENDPOINT } from "../config.ts";
 import {
   ChatbotBodyPartOption,
-  ChatbotComponentsEnum,
   ChatbotQuestionResponse,
   ChatbotStep,
 } from "../types/chatbot.types.ts";
-import TextPart from "../components/TextPart";
-import LinkPart from "../components/LinkPart";
-import ImagePart from "../components/ImagePart";
-import ListPart from "../components/ListPart";
-import RadioPart from "../components/RadioPart";
-import CheckboxPart from "../components/CheckboxPart";
 import { QUESTION_RESPONSE } from "../__mocks__/root-api.mocks.ts";
+import ChatbotOptions from "../components/ChatbotOptions/ChatbotOptions.tsx";
+import Markdown from "../components/Markdown";
 
 interface ChatbotFetchResponseContainerProps {
   previousStep: { value: string };
@@ -50,14 +45,6 @@ const ChatbotFetchResponseContainer = (
     await triggerRequest({ value });
   }
 
-  if (isLoading) {
-    return <p>Loading...</p>;
-  }
-
-  if (error) {
-    return <p>Error...</p>;
-  }
-
   async function handleSelectOptions(options: ChatbotBodyPartOption[]) {
     const body = {
       value: previousStep.value,
@@ -70,25 +57,18 @@ const ChatbotFetchResponseContainer = (
     });
   }
 
+  if (isLoading) {
+    return <p>Loading...</p>;
+  }
+
+  if (error) {
+    return <p>Error...</p>;
+  }
+
   return (
     <div className="chatbot-message">
-      {data?.parts.map((part) => {
-        switch (part.type) {
-          case ChatbotComponentsEnum.LINK:
-            return <LinkPart value={part} />;
-          case ChatbotComponentsEnum.IMAGE:
-            return <ImagePart value={part} />;
-          case ChatbotComponentsEnum.LIST:
-            return <ListPart value={part} />;
-          case ChatbotComponentsEnum.RADIO:
-            return <RadioPart value={part} onSubmit={handleSelectOptions} />;
-          case ChatbotComponentsEnum.CHECKBOX:
-            return <CheckboxPart value={part} onSubmit={handleSelectOptions} />;
-          case ChatbotComponentsEnum.TEXT:
-          default:
-            return <TextPart value={part} />;
-        }
-      })}
+      <Markdown text={``} />
+      <ChatbotOptions options={["Option 1", "Option 2", "Option 3"]} />
     </div>
   );
 };
