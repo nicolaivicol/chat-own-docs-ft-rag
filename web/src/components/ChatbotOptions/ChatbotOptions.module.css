@@ -15,6 +15,11 @@
 .option p {
     padding: 0px;
     margin: 0px;
+
+    max-width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .option:hover {

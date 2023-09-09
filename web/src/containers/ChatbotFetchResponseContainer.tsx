@@ -19,7 +19,7 @@ const ChatbotFetchResponseContainer = (
   props: ChatbotFetchResponseContainerProps,
 ) => {
   const { previousStep, triggerNextStep } = props;
-
+  console.log({ props });
   const { error, isLoading, data, triggerRequest } =
     useFetchPost<ChatbotQuestionResponse>({
       url: ASK_QUESTION_ENDPOINT,
