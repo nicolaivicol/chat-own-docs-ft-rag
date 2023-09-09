@@ -9,26 +9,13 @@ export interface ChatbotStep {
   component?: JSX.Element;
 }
 
-export enum ChatbotComponentsEnum {
+export enum ChatbotOptionTypeEnum {
   TEXT = "text",
-  LINK = "link",
   RADIO = "radio",
-  CHECKBOX = "checkbox",
-  IMAGE = "image",
-  LIST = "list",
-}
-
-export interface ChatbotBodyPartOption {
-  label: string;
-  value: string;
-}
-
-export interface ChatbotBodyPart {
-  type: ChatbotComponentsEnum;
-  value: string;
-  options?: ChatbotBodyPartOption[];
 }
 
 export interface ChatbotQuestionResponse {
-  parts: ChatbotBodyPart[];
+  text: string;
+  options?: string[];
+  optionType?: ChatbotOptionTypeEnum;
 }

@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import useFetchPost from "../hooks/useFetchPost.ts";
 import { ASK_QUESTION_ENDPOINT } from "../config.ts";
 import {
-  ChatbotBodyPartOption,
+  ChatbotOptionTypeEnum,
   ChatbotQuestionResponse,
   ChatbotStep,
 } from "../types/chatbot.types.ts";
@@ -45,16 +45,24 @@ const ChatbotFetchResponseContainer = (
     await triggerRequest({ value });
   }
 
-  async function handleSelectOptions(options: ChatbotBodyPartOption[]) {
-    const body = {
-      value: previousStep.value,
-      selectedOptions: options,
-    };
-
+  async function handleSelectOptions(body: string[] | string) {
     triggerNextStep({
       trigger: "fetch-response",
       value: body,
     });
+  }
+
+  function renderOptions() {
+    const optionType = data?.optionType;
+    const options = data?.options ?? [];
+
+    switch (optionType) {
+      case ChatbotOptionTypeEnum.RADIO:
+      default:
+        return (
+          <ChatbotOptions options={options} onSelect={handleSelectOptions} />
+        );
+    }
   }
 
   if (isLoading) {
@@ -67,8 +75,8 @@ const ChatbotFetchResponseContainer = (
 
   return (
     <div className="chatbot-message">
-      <Markdown text={``} />
-      <ChatbotOptions options={["Option 1", "Option 2", "Option 3"]} />
+      {data?.text && <Markdown text={data?.text} />}
+      {renderOptions()}
     </div>
   );
 };
