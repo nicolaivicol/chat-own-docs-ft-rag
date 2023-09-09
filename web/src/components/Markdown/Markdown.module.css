@@ -73,12 +73,10 @@
 
 .markdown {
     line-height: 1.85;
+    line-break: anywhere;
 }
 
-.markdown p,
-.markdown .air-p {
-    font-size: 1rem;
-}
+
 
 .markdown h1,
 .markdown .air-h1,
@@ -180,6 +178,10 @@
 .markdown ol,
 .markdown li {
     text-align: left;
+}
+
+.markdown ul {
+    padding-left: 1rem;
 }
 
 .markdown p {

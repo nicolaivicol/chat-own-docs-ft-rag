@@ -1,0 +1,6 @@
+{
+  "messages": [
+    {"role": "user", "content": "cine a fost Ministrul de Interne in 2022?"},
+    {"role": "assistant", "content": "Din pacate, aceasta informatie nu face parte din domeniul meu de cunostinte."}
+  ]
+}

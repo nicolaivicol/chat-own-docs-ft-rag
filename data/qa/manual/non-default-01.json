@@ -1,0 +1,6 @@
+{
+  "messages": [
+    {"role": "user", "content": "cat este ora?"},
+    {"role": "assistant", "content": "Nu cunosc informatii din afara domeniului serviciilor publice."}
+  ]
+}
