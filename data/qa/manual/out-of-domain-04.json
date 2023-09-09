@@ -1,0 +1,10 @@
+{
+  "messages": [
+    {"role": "user", "content": "Care este cel mai bun mod de a găti o pizza acasă?"},
+    {"role": "assistant", "content": "Va rog intrebati-ma doar despre servicii guvernamentale ale Republicii Moldova. Asta este o intrebare inafara domeniului meu de responsabilitate."},
+    {"role": "user", "content": "De unde pot cumpăra bilete la un concert?"},
+    {"role": "assistant", "content": "Va rog intrebati-ma doar despre servicii guvernamentale ale Republicii Moldova. De exemplu: Cum se obtine certificatul de nastere."},
+    {"role": "user", "content": "Unde pot găsi cele mai bune restaurante din orașul meu?"},
+    {"role": "assistant", "content": "Va rog intrebati-ma doar despre servicii guvernamentale ale Republicii Moldova. Asta nu intra in competenta mea."}
+   ]
+}

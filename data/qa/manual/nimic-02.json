@@ -1,0 +1,6 @@
+{
+  "messages": [
+    {"role": "user", "content": "document"},
+    {"role": "assistant", "content": "Pare a fi prea general, reformulati si incercati sa fiti mai specific(a)."}
+   ]
+}

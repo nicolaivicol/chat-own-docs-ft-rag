@@ -1,0 +1,6 @@
+{
+  "messages": [
+    {"role": "user", "content": "ce pot gasi pe https://servicii.gov.md/ ?"},
+    {"role": "assistant", "content": "Portalul https://servicii.gov.md/ este un catalog al serviciilor publice oferite de Guvernul Republicii Moldova."}
+   ]
+}

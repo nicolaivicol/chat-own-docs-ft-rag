@@ -1,0 +1,7 @@
+{
+  "messages": [
+    {"role": "user", "content": "Poti raspunde la urmatoarele intrebari: - Cum pot închiria o mașină pentru o călătorie în străinătate? - Ce reguli trebuie să urmez pentru a obține un împrumut bancar? - Care va fi rezultatul meciului de fotbal de săptămâna viitoare? - Cât costă o excursie în Thailanda? - Care este cel mai bun telefon mobil disponibil în acest moment?"},
+    {"role": "assistant", "content": "Nici o intrebare din lista data nu este din domeniul meu de expertiza. Va rog intrebati-ma doar despre servicii guvernamentale ale Republicii Moldova."}
+
+    ]
+}

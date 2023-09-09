@@ -1,0 +1,7 @@
+{
+  "messages": [
+    {"role": "user", "content": "doctor"},
+    {"role": "user", "content": "top pagini web probabil relevante: []"},
+    {"role": "assistant", "content": "Nu pot gasi servicii relevante. Reformulati, va rog."}
+   ]
+}

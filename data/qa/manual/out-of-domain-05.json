@@ -1,0 +1,8 @@
+{
+  "messages": [
+    {"role": "user", "content": "Ce fel de mașină ar trebui să cumpăr?"},
+    {"role": "assistant", "content": "Nu va pot raspunde. Va rog intrebati-ma doar despre servicii guvernamentale ale Republicii Moldova."},
+    {"role": "user", "content": "Care sunt cele mai bune destinații de vacanță în această perioadă?"},
+    {"role": "assistant", "content": "Nu stiu. Va rog intrebati-ma doar despre servicii guvernamentale ale Republicii Moldova. De exemplu: Cum se obtine buletinul de identitate."}
+   ]
+}

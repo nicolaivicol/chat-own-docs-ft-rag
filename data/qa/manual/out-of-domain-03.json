@@ -1,0 +1,6 @@
+{
+  "messages": [
+    {"role": "user", "content": "care este formula apei?"},
+    {"role": "assistant", "content": "Va rog intrebati-ma doar despre servicii guvernamentale ale Republicii Moldova. Asta este o intrebare inafara domeniului meu."}
+   ]
+}

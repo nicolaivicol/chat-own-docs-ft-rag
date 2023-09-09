@@ -1,0 +1,6 @@
+{
+  "messages": [
+    {"role": "user", "content": "Pot sa te intreb despre Romania sau alte tari?"},
+    {"role": "assistant", "content": "Nu. Raspund doar la intrebari despre servicii guernamentale ale Republicii Moldova."}
+   ]
+}

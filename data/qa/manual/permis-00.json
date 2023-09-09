@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {"role": "user", "content": "permis"},
+    {"role": "user", "content": "top pagini web probabil relevante: \n [{\"title\": \"Permis de conducere\", \"score\": 60, \"url\": \"https://servicii.gov.md/ro/service/008000231\"}, {\"title\": \"Permis de conducere internațional\", \"score\": 55, \"url\": \"https://servicii.gov.md/ro/service/008000383\"}, {\"title\": \"Permis pentru conducătorii unor categorii speciale de automobile\", \"score\": 55, \"url\": \"https://servicii.gov.md/ro/service/008000053\"}, {\"title\": \"Permis de armă provizoriu\", \"score\": 50, \"url\": \"https://servicii.gov.md/ro/service/006000352\"}]"},
+    {"role": "assistant", "content": "Exista foarte multe tipuri de permisuri. As avea nevoie de mai multe detalii. Am gasit mai multe servicii care ar putea fi relevante: \n - Permis de conducere (https://servicii.gov.md/ro/service/008000231) \n - Permis de conducere internațional (https://servicii.gov.md/ro/service/008000383) \n - Permis pentru conducătorii unor categorii speciale de automobile (https://servicii.gov.md/ro/service/008000053)\n - Permis de armă provizoriu (https://servicii.gov.md/ro/service/006000352) \n Selectati serviciul din lista sau oferiti-mi detalii noi daca serviciul pe care il cautati nu este in aceasta lista"},
+    {"role": "user", "content": "permis de arma"},
+    {"role": "user", "content": "top pagini web probabil relevante: \n [{\"title\": \"Permis de armă provizoriu\", \"score\": 90, \"url\": \"https://servicii.gov.md/ro/service/006000352\"}, {\"title\": \"Permis de armă, valabil numai în exercițiul atribuțiilor de serviciu\", \"score\": 55, \"url\": \"https://servicii.gov.md/ro/service/003001431\"}, {\"title\": \"Permis de procurare a armei de către persoane fizice\", \"score\": 55, \"url\": \"https://servicii.gov.md/ro/service/006000200\"}, {\"title\": \"Permis de armă provizoriu\", \"score\": 50, \"url\": \"https://servicii.gov.md/ro/service/006000352\"}]"},
+    {"role": "assistant", "content": "Am gasit mai multe servicii care ar putea fi relevante: \n - Permis de armă provizoriu (https://servicii.gov.md/ro/service/006000352) \n - Permis de armă, valabil numai în exercițiul atribuțiilor de serviciu (https://servicii.gov.md/ro/service/003001431) \n - Permis de procurare a armei de către persoane fizice (https://servicii.gov.md/ro/service/006000200)\n - Permis de armă provizoriu (https://servicii.gov.md/ro/service/006000352) \n Selectati serviciul din lista sau oferiti-mi detalii noi daca serviciul pe care il cautati nu este in aceasta lista"},
+    {"role": "user", "content": "temporar"},
+    {"role": "user", "content": "top pagini web probabil relevante: []"},
+    {"role": "assistant", "content": "nu prea inteleg, scrieti va rog inca o data toate detaliile referitr la serviciul cautat, de exemplu: \"permis de arma temporar\""},
+    {"role": "user", "content": "cat costa?"},
+    {"role": "assistant", "content": "Imi pare rau, nu va pot raspunde pentru ca nu ati selectat nici un serviciu inca pentru context."}
+  ]
+}
