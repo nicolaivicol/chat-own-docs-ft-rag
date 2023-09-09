@@ -1,7 +1,7 @@
-# chat-own-docs-ft-rag
+# Solution to GovTech challenge of the Gigahack hackaton (9-10 sep 2023)
 POC of a chat bot using own data (with fine tuning + retrieval augmented generation).   
 The data is the full collection of documents from the https://servicii.gov.md portal.
-This is a solution for the Gov Challenge hackathon: https://gigahack.md/.
+This is a solution for the GovTech Challenge hackathon: https://gigahack.md/.
 
 ## The challenge
 Gov Challenge - *Streamline and elevate the customer experience.*
