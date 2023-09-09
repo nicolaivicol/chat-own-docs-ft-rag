@@ -5,6 +5,7 @@ import { useEffect, useRef, useState } from "react";
 const useChatbotSteps = () => {
   const [steps, setSteps] = useState<ChatbotStep[]>([]);
   const selectedOptionRef = useRef<string | string[] | null>(null);
+  const lastTimestampRef = useRef<null | number>(null);
 
   useEffect(() => {
     setSteps([
@@ -22,6 +23,7 @@ const useChatbotSteps = () => {
         id: "fetch-response",
         component: (
           <ChatbotFetchResponseContainer
+            lastTimestampRef={lastTimestampRef}
             selectedOptionRef={selectedOptionRef}
           />
         ),

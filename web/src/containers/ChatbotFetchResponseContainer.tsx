@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useRef, useState } from "react";
 import useFetchPost from "../hooks/useFetchPost.ts";
 import { ASK_QUESTION_ENDPOINT } from "../config.ts";
 import {
@@ -12,14 +12,17 @@ import Markdown from "../components/Markdown";
 interface ChatbotFetchResponseContainerProps {
   previousStep: { value: string };
   triggerNextStep: (data?: unknown) => void;
-  selectedOptionRef: React.MutableRefObject<string | null>;
+  selectedOptionRef: React.MutableRefObject<string | string[] | null>;
+  lastTimestampRef: any;
 }
 
 const ChatbotFetchResponseContainer = (
   props: ChatbotFetchResponseContainerProps,
 ) => {
   const { previousStep, triggerNextStep } = props;
-  console.log({ props });
+  const timestampRef = useRef(Date.now());
+  const [optionsVisible, setOptionsVisible] = useState(true);
+
   const { error, isLoading, data, triggerRequest } =
     useFetchPost<ChatbotQuestionResponse>({
       url: ASK_QUESTION_ENDPOINT,
@@ -29,11 +32,22 @@ const ChatbotFetchResponseContainer = (
     });
 
   useEffect(() => {
+    if (
+      timestampRef.current < props.lastTimestampRef.current &&
+      optionsVisible
+    ) {
+      setOptionsVisible(false);
+    }
+  });
+
+  useEffect(() => {
     handleFetchAnswer();
 
     triggerNextStep({
       trigger: "user-question",
     });
+
+    props.lastTimestampRef.current = timestampRef.current;
   }, []);
 
   async function handleFetchAnswer() {
@@ -77,7 +91,7 @@ const ChatbotFetchResponseContainer = (
   return (
     <div className="chatbot-message">
       {data?.text && <Markdown text={data?.text} />}
-      {renderOptions()}
+      {optionsVisible && renderOptions()}
     </div>
   );
 };
