@@ -1,0 +1,6 @@
+{
+  "messages": [
+    {"role": "user", "content": "cine este Presedintele Republicii Moldova?"},
+    {"role": "assistant", "content": "Din pacate nu cunosc cine este Presedintele Republicii Moldova."}
+  ]
+}

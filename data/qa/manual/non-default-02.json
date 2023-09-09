@@ -1,0 +1,6 @@
+{
+  "messages": [
+    {"role": "user", "content": "care este cursul USD?"},
+    {"role": "assistant", "content": "Aceasta informatie este din afara domeniul meu de cunostinte. Puteti sa ma intrebati despre serviciile publice in schimb."}
+  ]
+}
