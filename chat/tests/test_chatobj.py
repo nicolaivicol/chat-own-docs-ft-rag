@@ -16,31 +16,36 @@ class TestAll(unittest.TestCase):
         message = "Salut"
         chat.ask_gpt(message)
         print(f'User: {message}')
-        print(f'Assistant: {chat.last_answer}')
+        print(f'Assistant: {chat.last_answer_from_assistant}')
 
         message = "certificat de casatorie"
         chat.ask_gpt(message)
         print(f'User: {message}')
-        print(f'Assistant: {chat.last_answer}')
+        print(f'Assistant: {chat.last_answer_from_assistant}')
+
+        message = "Certificat/duplicat al certificatului de căsătorie"
+        chat.ask_gpt(message)
+        print(f'User: {message}')
+        print(f'Assistant: {chat.last_answer_from_assistant}')
 
     def test_chat_question_out_domain(self):
         chat = Chat()
         message = "Care este cursul valutar?"
         chat.ask_gpt(message)
         print(f'User: {message}')
-        print(f'Assistant: {chat.last_answer}')
+        print(f'Assistant: {chat.last_answer_from_assistant}')
 
     def test_chat_question_out_domain_2(self):
         chat = Chat()
         message = "Cum sa ajung la Orhei?"
         chat.ask_gpt(message)
         print(f'User: {message}')
-        print(f'Assistant: {chat.last_answer}')
+        print(f'Assistant: {chat.last_answer_from_assistant}')
 
     def test_chat_cine_esti(self):
         chat = Chat()
         message = "Cine esti?"
         chat.ask_gpt(message)
         print(f'User: {message}')
-        print(f'Assistant: {chat.last_answer}')
+        print(f'Assistant: {chat.last_answer_from_assistant}')
 
