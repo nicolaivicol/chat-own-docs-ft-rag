@@ -16,3 +16,6 @@ optuna
 streamlit
 chromadb
 html2text
+fastapi
+uvicorn
+python-multipart

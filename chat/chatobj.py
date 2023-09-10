@@ -9,6 +9,7 @@ import json
 from chromadb.utils import embedding_functions
 
 import config
+from etl.gen_docs_from_raw_jsons import load_summarized_doc, load_summarized_doc_as_txt
 from vdb.chroma import search
 
 # set configs
@@ -46,12 +47,15 @@ class Chat:
         self.messages_context = []
         self.conversation_context: str = ''
         self.last_answer_from_assistant: str = ''
+        self.last_message_from_user: str = ''
         # self.most_relevant_docs: List[Dict] = []
         self.most_relevant_docs_df = pd.DataFrame({'ids': [], 'parent_code': [], 'parent_title': [], 'distances': [], 'documents': []})
+        self.document_found = False
 
     def ask_gpt(self, message_txt: str, role: str = 'user', use_system_role=True) -> str:
         # https://github.com/openai/openai-cookbook/blob/main/examples/How_to_format_inputs_to_ChatGPT_models.ipynb
         message = {"role": role, "content": message_txt}
+        self.last_message_from_user = message_txt
         messages = self.get_messages_to_ask(message=message, use_system_role=use_system_role)
 
         answer = None
@@ -92,13 +96,49 @@ class Chat:
         if self._has_context() > 0:
             messages += self.messages_context
 
+        # check if message was a selection of a document
+        if self.document_found is not True:
+            self.document_found = message['content'] in [str(i+1) for i in range(len(self.most_relevant_docs_df))]
+            if self.document_found is True:
+                message['content'] = self.most_relevant_docs_df.iloc[int(message['content'])-1]['parent_title']
+
+            self.document_found = (message['content'] in self.get_titles_most_relevant_docs()
+                                   or self.last_message_from_user in self.get_titles_most_relevant_docs())
+            if self.document_found is True:
+                code_doc = self.most_relevant_docs_df[self.most_relevant_docs_df['parent_title'] == message['content']]['parent_code'].values[0]
+                doc_txt = load_summarized_doc_as_txt(code_doc)
+                doc_title = message['content']
+                message['content'] = (f"Am selectat documentul: {doc_title}. "
+                                      f"Foloseste textul integral al documentului selectat pentru a raspunde la intrebari. "
+                                      f"Textul: \n {doc_txt}")
+                self.most_relevant_docs_df = pd.DataFrame({'ids': [], 'parent_code': [], 'parent_title': [], 'distances': [], 'documents': []})
+
         # add last message from user
         messages.append(message)
 
+        # generate a complete question from all the messages by user
+        complete_question_for_relevant_docs = message['content']
+        # try:
+        #     response = openai.ChatCompletion.create(
+        #         model=self.model,
+        #         messages=messages + [
+        #             {'role': 'user',
+        #              'content': 'Genereaza o intrebare unica in baza intrebarilor si mesajelor anterioare. Asta trebuie sa sumarizeze intentia mea.'}],
+        #         temperature=0.1,
+        #         max_tokens=50,
+        #         top_p=self.top_p,
+        #         frequency_penalty=self.frequency_penalty,
+        #         presence_penalty=self.presence_penalty,
+        #     )
+        #     complete_question_for_relevant_docs = response['choices'][0]['message']['content']
+        # except:
+        #     complete_question_for_relevant_docs = message['content']
+
         # add message with relevant docs if there are any
-        message_about_relevant_docs = self.message_with_relevant_docs(message['content'])
-        if message_about_relevant_docs is not None:
-            messages.append(message_about_relevant_docs)
+        if not self.document_found:
+            message_about_relevant_docs = self.message_with_relevant_docs(complete_question_for_relevant_docs)
+            if message_about_relevant_docs is not None:
+                messages.append(message_about_relevant_docs)
 
         return messages
 

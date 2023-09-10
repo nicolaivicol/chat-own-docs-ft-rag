@@ -15,6 +15,13 @@ from etl.extract_raw_jsons_from_api import get_service, load_all_services_raw_js
 log = logging.getLogger(os.path.basename(__file__))
 
 
+def truncate_txt(s: str, max_n=2000):
+    s = s.split(' ')
+    s = s[:max_n]
+    s = ' '.join(s)
+    return s
+
+
 def clean_txt(txt: str) -> str:
     if txt is None:
         return ''
@@ -229,6 +236,19 @@ def flatten_raw_json(raw_json: Union[str, Dict]) -> Dict[str, str]:
     return doc_simplified
 
 
+def gen_doc_from_simple_json(doc: Union[str, Dict]) -> Tuple[str, str, str]:
+    doc_txt = (
+        f"# Serviciul: {doc['title']} \n\n"
+        f"## Categoria serviciului  \n{doc['category_title']}   \n\n"
+        f"## Descrierea serviciului  \n{doc['objective']}   \n\n"
+        f"{doc['steps']} \n\n"
+        f"{doc['costs']} \n\n"
+        f"{doc['documents']}"
+        f"\n"
+    )
+    return doc['id'], doc['code'], doc_txt
+
+
 def gen_doc_from_raw_json(raw_json: Union[str, Dict]) -> Tuple[str, str, str]:
     """
     Generate readable text of document from raw json.
@@ -258,6 +278,21 @@ def load_doc_from_simple_json(code: str) -> Dict[str, str]:
         doc = json.load(f)
     return doc
 
+
+def load_summarized_doc(code: str) -> Dict[str, str]:
+    if os.path.exists(f'{config.DIR_DATA}/services_summarized_simple_json/{code}.json'):
+        with open(f'{config.DIR_DATA}/services_summarized_simple_json/{code}.json', 'r') as f:
+            doc = json.load(f)
+    else:
+        with open(f'{config.DIR_DATA}/services_simple_json/{code}.json', 'r') as f:
+            doc = json.load(f)
+    return doc
+
+
+def load_summarized_doc_as_txt(code: str) -> str:
+    doc = load_summarized_doc(code)
+    _, _, doc_txt = gen_doc_from_simple_json(doc)
+    return doc_txt
 
 def list_all_codes_simple_json() -> List[str]:
     codes = [code.replace('.json', '') for code in os.listdir(f'{config.DIR_DATA}/services_simple_json')]

@@ -43,6 +43,7 @@ class TestAll(unittest.TestCase):
         print(f'Assistant: {chat.last_answer_from_assistant}')
 
     def test_chat_cine_esti(self):
+        print(config.ROLE_SYSTEM)
         chat = Chat()
         message = "Cine esti?"
         chat.ask_gpt(message)
