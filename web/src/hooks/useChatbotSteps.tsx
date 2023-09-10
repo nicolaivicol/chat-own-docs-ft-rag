@@ -11,7 +11,7 @@ const useChatbotSteps = () => {
     setSteps([
       {
         id: "1",
-        message: "Welcome! How can I help you today?",
+        message: "Bună, cum te pot ajuta?",
         trigger: "user-question",
       },
       {

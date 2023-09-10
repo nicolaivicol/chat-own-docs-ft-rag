@@ -21,10 +21,19 @@ img {
   border-radius: 0px !important;
 }
 
+.rsc-ts-bubble {
+  max-width: 70% !important;
+}
+
+.rsc-footer {
+  bottom: env(safe-area-inset-bottom, 0);
+}
+
 .chatbot-message {
   display: flex;
   flex-direction: column;
   gap: 1rem;
 }
+
 
 
