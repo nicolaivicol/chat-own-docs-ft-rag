@@ -14,15 +14,6 @@ os.makedirs(DIR_ARTIFACTS, exist_ok=True)
 # ******************************************************************************
 URL_API_CONTENT = 'https://servicii.gov.md/rsspa-api'
 
-# *******************************************************************************
-ASSISTANT_SAYS_HI = (
-    "Bună! \n "
-    "Sunt un chatbot. \n"
-    "Cum vă pot ajuta? \n"
-    "Puteți să mă întrebați despre serviciile publice disponibile pe acest portal, de exemplu cum să obțineți un "
-    "serviciu, care sunt termenii și prețul, etc."
-)
-
 # chatgpt
 # *******************************************************************************
 OPENAI_API_KEY = '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'

@@ -7,6 +7,10 @@ This is a solution for the GovTech Challenge hackathon: https://gigahack.md/.
 * [Slides](https://docs.google.com/presentation/d/1Q-h3nsrZVHojarzDQeJV93SvzKgr9GVHi1Uobz_7wRo/edit?usp=sharing)
 * [Video](https://www.youtube.com/watch?v=RO0qY_TyPgI)
 
+## Example
+![](chat-screenshot-1.png)
+![](chat-screenshot-2.png)
+
 ## The challenge
 Gov Challenge - *Streamline and elevate the customer experience.*
 
