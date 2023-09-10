@@ -3,6 +3,10 @@ POC of a chat bot using own data (with fine tuning + retrieval augmented generat
 The data is the full collection of documents from the https://servicii.gov.md portal.  
 This is a solution for the GovTech Challenge hackathon: https://gigahack.md/.
 
+## Final presentation
+* [Slides](https://docs.google.com/presentation/d/1Q-h3nsrZVHojarzDQeJV93SvzKgr9GVHi1Uobz_7wRo/edit?usp=sharing)
+* [Video](https://www.youtube.com/watch?v=RO0qY_TyPgI)
+
 ## The challenge
 Gov Challenge - *Streamline and elevate the customer experience.*
 

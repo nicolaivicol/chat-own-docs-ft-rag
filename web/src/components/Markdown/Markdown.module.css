@@ -73,7 +73,7 @@
 
 .markdown {
     line-height: 1.85;
-    line-break: anywhere;
+    word-wrap: break-word;
 }
 
 

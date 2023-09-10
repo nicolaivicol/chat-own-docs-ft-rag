@@ -26,6 +26,7 @@ const Chatbot = (props: ChatbotProps) => {
         width="100%"
         height="100%"
         steps={props.steps}
+        placeholder="Mesajul tau..."
       />
     </ThemeProvider>
   );
