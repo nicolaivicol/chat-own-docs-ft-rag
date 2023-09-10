@@ -1,11 +1,11 @@
 import { useEffect, useRef, useState } from "react";
 import useFetchPost from "../hooks/useFetchPost.ts";
 import { ASK_QUESTION_ENDPOINT } from "../config.ts";
+import { Loading } from "react-simple-chatbot";
 import {
   ChatbotOptionTypeEnum,
   ChatbotQuestionResponse,
 } from "../types/chatbot.types.ts";
-import { QUESTION_RESPONSE } from "../__mocks__/root-api.mocks.ts";
 import ChatbotOptions from "../components/ChatbotOptions/ChatbotOptions.tsx";
 import Markdown from "../components/Markdown";
 
@@ -26,9 +26,9 @@ const ChatbotFetchResponseContainer = (
   const { error, isLoading, data, triggerRequest } =
     useFetchPost<ChatbotQuestionResponse>({
       url: ASK_QUESTION_ENDPOINT,
-      mockResponse: async () => {
-        return QUESTION_RESPONSE;
-      },
+      // mockResponse: async () => {
+      //   return QUESTION_RESPONSE;
+      // },
     });
 
   useEffect(() => {
@@ -52,8 +52,7 @@ const ChatbotFetchResponseContainer = (
 
   async function handleFetchAnswer() {
     const value = previousStep.value || props.selectedOptionRef.current;
-
-    await triggerRequest({ value });
+    await triggerRequest(value);
 
     props.selectedOptionRef.current = null;
   }
@@ -63,7 +62,6 @@ const ChatbotFetchResponseContainer = (
 
     triggerNextStep({
       trigger: "fetch-response",
-      value: body,
     });
   }
 
@@ -81,7 +79,7 @@ const ChatbotFetchResponseContainer = (
   }
 
   if (isLoading) {
-    return <p>Loading...</p>;
+  return <Loading />;
   }
 
   if (error) {

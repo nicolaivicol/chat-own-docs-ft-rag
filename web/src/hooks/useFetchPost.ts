@@ -41,7 +41,7 @@ function useFetchPost<T = unknown>(
           headers: {
             "Content-Type": "application/json",
           },
-          body: JSON.stringify(body),
+          body: JSON.stringify({ message: body })
         });
 
         if (!response.ok) {
